@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Home
+title: KoalasinTraffic
+description: Not sure why we need a home page but here it is
 ---
 
-# Work in Progress
+# Oops &#128563;. Website is under construction.
 
-## Work in Progress
+Come back at a later date!
 
-Hello World!
