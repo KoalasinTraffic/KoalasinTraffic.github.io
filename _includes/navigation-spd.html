@@ -1,0 +1,32 @@
+<nav>
+  <ul>
+    <li style="margin-top: 2em;">
+      <a class="current" href="/spd">Home</a>
+    </li>
+
+    {% for entry in site.data.spd %}
+    <li>
+
+      <!-- Parent links in navigation.yml -->
+      {% if page.url contains entry.url %}
+        <a class="current-parent" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+      {% else %}
+        <a class="parent" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+      {% endif %}
+
+      <ul>
+        {% for sublink in entry.sublinks %}
+
+          <!-- Sublinks in navigation.yml -->
+          {% if page.url contains sublink.url %}
+            <li><a class="current" href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
+          {% else %}
+            <li><a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
+          {% endif %}
+
+        {% endfor %}
+      </ul>
+    </li>
+    {% endfor %}
+  </ul>
+</nav>

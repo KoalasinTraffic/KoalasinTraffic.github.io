@@ -1,0 +1,36 @@
+- title: Towers
+  url: /spd/tower
+#  sublinks:
+#    - title: Basic
+#      url: /spd/tower/basic
+#    - title: Splash
+#      url: /spd/tower/splash
+#    - title: Fire
+#      url: /spd/tower/fire
+#    - title: Slow
+#      url: /spd/tower/slow
+#    - title: Stun
+#      url: /spd/tower/stun
+#    - title: Beam
+#      url: /spd/tower/beam
+- title: Items
+  url: /spd/item
+#  sublinks:
+#    - title: Muffin
+#      url: /spd/item/muffin
+#    - title: Donut
+#      url: /spd/item/donut
+#    - title: Cabbage
+#      url: /spd/item/cabbage
+#    - title: Pineapple
+#      url: /spd/item/pineapple
+- title: Enemies
+  url: /spd/enemy
+#  sublinks:
+#    - title: Noble
+#      url: /spd/enemy/noble
+#- title: Bosses
+#  url: /spd/boss
+#  sublinks:
+#    - title: Dragon
+#      url: /spd/enemy/dragon

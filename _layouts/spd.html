@@ -1,4 +1,18 @@
----
-layout: default
----
-{{ content }}
+{% assign title = "Small People Defense" %}
+{% assign description = "3rd Person Real-Time Strategy TD Game" %}
+
+{% include header.html %}
+
+<div id="container">
+
+  <div id="navbar">
+    {% include navigation-spd.html %}
+  </div>
+
+  <div id="content">
+    {{ content }}
+  </div>
+
+</div>
+
+{% include footer.html %}

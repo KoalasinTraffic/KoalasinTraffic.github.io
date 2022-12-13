@@ -1,10 +1,13 @@
 ---
-layout: default
-title: KoalasinTraffic
-description: Not sure why we need a home page but here it is
+layout: about
+title: Home
 ---
 
-# Oops &#128563;. Website is under construction.
+# Who Am I
 
-Come back at a later date!
+I'm a hobbyist who's interested in game development, programming, writing music, and creating cool projects. I typically go by KoalasinTraffic. Here's a picture of a baby koala &#128522;
+
+<img src="/assets/images/koala-61190_960_720.jpg" alt="koala-61190_960_720.jpg">
+
+<img src="/assets/images/koalas-61189_960_720.jpg" alt="koalas-61189_960_720.jpg">
 

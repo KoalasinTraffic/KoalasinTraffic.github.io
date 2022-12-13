@@ -1,0 +1,34 @@
+/* Social icons in header */
+.btn-icon img {
+  width: 32px;
+  height: auto;
+}
+.btn-icon {
+  padding: .4rem .4rem .0rem .4rem;  /* top right bottom left */
+}
+
+@media screen and (max-width: 64em) {
+  .btn-icon img {
+    width: 24px;
+  }
+  .btn-icon {
+    padding: .3rem .3rem .0rem .3rem;  /* top right bottom left */
+  }
+}
+
+@media screen and (max-width: 42em) {
+  .btn-icon img {
+    width: 16px;
+  }
+  .btn-icon {
+    padding: .2rem .2rem .0rem .2rem;  /* top right bottom left */
+  }
+}
+
+
+/* Remove line break when mobile */
+@media screen and (max-width: 42em) {
+  .desktop-break {
+    display: none;
+  }
+}

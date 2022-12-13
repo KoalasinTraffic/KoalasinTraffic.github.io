@@ -1,14 +1,12 @@
 ---
 layout: spd
-title: Small People Defense
-description: 3rd Person Strategy Tower Defense Game Built with Unreal Engine
+title: Home
 ---
 
-# Laundry list of things to do
+# A Twist On A Proven Classic
 
-Add navigation bar with
+Small People Defense is a 3rd person real-time strategy tower defense game where you queue up your own difficulty. Challenge yourself by rushing incoming waves or simply enjoy powering up your *small person* into the largest in the world!
 
-* News
-* Leaderboards (see if this is even possible)
-* Tower Info
-* Enemy Info
+This twist on a proven classic allows for multiple viable strategies. There are benefits for those who specialize in single towers, but different enemies will require a diverse set of defenses.
+
+Coming out in 2023!

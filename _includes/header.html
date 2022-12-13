@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ title }} - {{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' }}">
+  </head>
+
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+    {% include analytics.html %}
+  {% endif %}
+
+  <body>
+    <header class="page-header" role="banner">
+
+      <h1 class="project-name">{{ title }}</h1>
+      <h2 class="project-tagline">{{ description }}</h2>
+
+      <a href="/spd/" class="btn">Small People Defense</a>
+      <a href="/" class="btn">Author</a>
+
+      <br class="desktop-break"/>
+      <a class="btn-icon" href="https://twitter.com/KoalasinTraffic">
+        <img src="/assets/images/twitter.png" alt="Twitter" alt="Twitter">
+      </a>
+      <a class="btn-icon" href="#">
+        <img src="/assets/images/steam.png" alt="Steam" title="Steam">
+      </a>
+      <a class="btn-icon" href="https://koalasintraffic.bandcamp.com/">
+        <img src="/assets/images/bandcamp.png" alt="Bandcamp" alt="Bandcamp">
+      </a>
+
+    </header>
+    <main id="content" class="main-content" role="main">
