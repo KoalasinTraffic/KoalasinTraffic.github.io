@@ -1,32 +1,49 @@
 <nav>
-  <ul>
-    <li style="margin-top: 2em;">
-      <a class="current" href="/spd">Home</a>
-    </li>
+<ul>
+{% for parent in site.data.spd %}
 
-    {% for entry in site.data.spd %}
-    <li>
-
-      <!-- Parent links in navigation.yml -->
-      {% if page.url contains entry.url %}
-        <a class="current-parent" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+  {% if parent.url == '/spd' %}
+    <li style="margin-top: 1em;">
+      {% if page.url == '/spd/' %}
+        <a class="current-parent" href="{{ site.baseurl }}{{ parent.url }}">{{ parent.title }}</a>
       {% else %}
-        <a class="parent" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+        <a class="parent" href="{{ site.baseurl }}{{ parent.url }}">{{ parent.title }}</a>
       {% endif %}
-
-      <ul>
-        {% for sublink in entry.sublinks %}
-
-          <!-- Sublinks in navigation.yml -->
-          {% if page.url contains sublink.url %}
-            <li><a class="current" href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
-          {% else %}
-            <li><a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
-          {% endif %}
-
-        {% endfor %}
-      </ul>
     </li>
-    {% endfor %}
-  </ul>
+
+  {% else %}
+    <li>
+      {% if page.url contains parent.url %}
+        <a class="current-parent" href="{{ site.baseurl }}{{ parent.url }}">{{ parent.title }}</a>
+
+        {% if parent.url == '/spd/tower' %}
+          {% assign children = site.tower %}
+        {% elsif parent.url == '/spd/item' %}
+          {% assign children = site.item %}
+        {% elsif parent.url == '/spd/enemy' %}
+          {% assign children = site.enemy %}
+        {% elsif parent.url == '/spd/boss' %}
+          {% assign children = site.boss %}
+        {% endif %}
+
+        {% for child in children %}
+          <ul>
+            <li>
+              {% if page.url contains child.url %}
+                <a class="current-child" href="{{ child.url }}">{{ child.title }}</a>
+              {% else %}
+                <a class="child" href="{{ child.url }}">{{ child.title }}</a>
+              {% endif %}
+            </li>
+          </ul>
+        {% endfor %}
+
+      {% else %}
+        <a class="parent" href="{{ site.baseurl }}{{ parent.url }}">{{ parent.title }}</a>
+      {% endif %}
+    </li>
+  {% endif %}
+
+{% endfor %}
+</ul>
 </nav>

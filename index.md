@@ -5,9 +5,10 @@ title: Home
 
 # Who Am I
 
-I'm a hobbyist who's interested in game development, programming, writing music, and creating cool projects. I typically go by KoalasinTraffic. Here's a picture of a baby koala &#128522;
+I'm a hobbyist who's interested in game development, programming, writing music, and working on cool projects. I typically go by KoalasinTraffic. Here's a picture of a baby koala &#128522;
 
 <img src="/assets/images/koala-61190_960_720.jpg" alt="koala-61190_960_720.jpg">
 
 <img src="/assets/images/koalas-61189_960_720.jpg" alt="koalas-61189_960_720.jpg">
 
+Check out my current project: [Small People Defense](/spd)

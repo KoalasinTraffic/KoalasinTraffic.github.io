@@ -1,2 +1,24 @@
 theme: jekyll-theme-cayman
 google_analytics: G-7ZQ8Y8QEH5
+
+collections_dir: spd
+collections:
+  news:
+    output: true
+    permalink: /spd/:collection/:year/:month/:day/:title/
+  tower:
+    output: true
+    permalink: /spd/:collection/:title/
+    sort_by: order
+  item:
+    output: true
+    permalink: /spd/:collection/:title/
+    sort_by: order
+  enemy:
+    output: true
+    permalink: /spd/:collection/:title/
+    sort_by: order
+  boss:
+    output: true
+    permalink: /spd/:collection/:title/
+    sort_by: order

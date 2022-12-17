@@ -1,0 +1,10 @@
+<div>
+  {% if include.purl %}
+    <a class="prev" href="{{ include.purl }}">&laquo; {{ include.ptext }}</a>
+  {% else %}
+    <a class="prev"></a>
+  {% endif %}
+  {% if include.nurl %}
+    <a class="next" href="{{ include.nurl }}">{{ include.ntext }} &raquo;</a>
+  {% endif %}
+</div>

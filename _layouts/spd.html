@@ -1,5 +1,5 @@
 {% assign title = "Small People Defense" %}
-{% assign description = "3rd Person Real-Time Strategy TD Game" %}
+{% assign description = "3rd Person TD Real-Time Strategy Game" %}
 
 {% include header.html %}
 
@@ -10,7 +10,40 @@
   </div>
 
   <div id="content">
+    {% if page.url contains '/news/' %}
+      {{ page.date | date: "%B %-d, %Y" }}
+      <h1>{{ page.title }}</h1>
+    {% endif %}
+
     {{ content }}
+
+    {% if page.previous == nil and page.next == nil %}
+
+      <!-- Auto generate previous next for sublinks -->
+      {% for entry in site.data.spd %}
+        {% if found %}
+          {% assign next_url = entry.url %}
+          {% assign next_text = entry.title %}
+          {% break %}
+        {% endif %}
+        {% if page.url == '/spd/' %}
+          {% assign found = true %}
+        {% elsif entry.url != '/spd' and page.url contains entry.url %}
+          {% assign found = true %}
+        {% else %}
+          {% assign prev_url = entry.url %}
+          {% assign prev_text = entry.title %}
+        {% endif %}
+      {% endfor %}
+
+      {% if found %}
+        {% include prev-next.html purl=prev_url ptext=prev_text nurl=next_url ntext=next_text %}
+      {% endif %}
+
+    {% else %}
+      <!-- Auto generate previous next for navigation links -->
+      {% include prev-next.html purl=page.previous.url ptext=page.previous.title nurl=page.next.url ntext=page.next.title %}
+    {% endif %}
   </div>
 
 </div>
