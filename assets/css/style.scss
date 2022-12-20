@@ -5,6 +5,9 @@
 /* Cayman theme uses 64em for small window and 42em for mobile */
 @import "jekyll-theme-cayman";
 
-@import "navbar";
+@import "banner";
 @import "socials";
 @import "prevnext";
+
+/* SPD */
+@import "navbar";

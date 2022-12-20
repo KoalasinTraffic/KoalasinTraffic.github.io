@@ -6,7 +6,6 @@
 .btn-icon {
   padding: .4rem .4rem .0rem .4rem;  /* top right bottom left */
 }
-
 @media screen and (max-width: 64em) {
   .btn-icon img {
     width: 24px;
@@ -15,7 +14,6 @@
     padding: .3rem .3rem .0rem .3rem;  /* top right bottom left */
   }
 }
-
 @media screen and (max-width: 42em) {
   .btn-icon img {
     width: 24px;
@@ -24,7 +22,6 @@
     padding: .3rem .3rem .0rem .3rem;  /* top right bottom left */
   }
 }
-
 
 /* Remove line break when mobile */
 @media screen and (max-width: 42em) {

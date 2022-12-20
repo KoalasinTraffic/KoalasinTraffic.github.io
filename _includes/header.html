@@ -3,8 +3,11 @@
 
   <head>
     <meta charset="UTF-8">
-    <title>{{ title }} - {{ page.title }}</title>
+    <title>{{ page.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' }}">
+    {% if spd %}
+      <link rel="shortcut icon" type="image/png" href="/favicon-spd.png">
+    {% endif %}
   </head>
 
   {% if site.google_analytics and jekyll.environment == 'production' %}
@@ -14,6 +17,9 @@
   <body>
     <header class="page-header" role="banner">
 
+      {% if spd %}
+        <img class="banner-spd" src="/assets/images/spd.png">
+      {% endif %}
       <h1 class="project-name">{{ title }}</h1>
       <h2 class="project-tagline">{{ description }}</h2>
 
@@ -24,7 +30,7 @@
       <a class="btn-icon" href="https://twitter.com/KoalasinTraffic">
         <img src="/assets/images/twitter.png" alt="Twitter" alt="Twitter">
       </a>
-      <a class="btn-icon" href="#">
+      <a class="btn-icon" href="https://store.steampowered.com/search/?developer=Koalas%20in%20Traffic">
         <img src="/assets/images/steam.png" alt="Steam" title="Steam">
       </a>
       <a class="btn-icon" href="https://koalasintraffic.bandcamp.com/">

@@ -13,8 +13,10 @@ title: News
         {{ post.date | date: "%B %-d, %Y" }} - {{ post.title }}
       </a>
       {% if counter == 0 %}
-        <pre style="white-space: pre-wrap">{{ post.excerpt | strip_newlines }}</pre>
         {% assign counter = counter | plus:1 %}
+        <br/><br/>
+        <pre style="white-space: pre-wrap">{{ post.excerpt | strip_newlines }}</pre>
+        <br/>
       {% endif %}
     </li>
   {% endfor %}

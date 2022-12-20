@@ -47,9 +47,13 @@ Although a lot of the resources used are [CC0](https://creativecommons.org/publi
 
 # Graphics
 
+* [Niskala Huruf](https://www.etsy.com/shop/nhfonts)
+  * [Party Confetti Font](https://www.fontspace.com/party-confetti-font-f69513)
 * [Game-Icons.net](https://game-icons.net/) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
   * [Delapouite](https://delapouite.com/)
   * [Lorc](https://lorcblog.blogspot.com/)
+  * [sbed](http://opengameart.org/content/95-game-icons)
+  * [Skoll](https://game-icons.net/)
 
 # Music
 
