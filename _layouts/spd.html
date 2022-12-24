@@ -19,7 +19,8 @@
     {% if page.previous == nil and page.next == nil %}
 
       <!-- Auto generate previous next for sublinks -->
-      {% for entry in site.data.spd %}
+      {% assign entries = site.data.spd | sort: "order" %}
+      {% for entry in entries %}
         {% if found %}
           {% assign next_url = entry.url %}
           {% assign next_text = entry.title %}
