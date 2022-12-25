@@ -17,13 +17,13 @@
         <a class="current-parent" href="{{ site.baseurl }}{{ parent.url }}">{{ parent.title }}</a>
 
         {% if parent.url == '/spd/tower' %}
-          {% assign children = site.tower %}
+          {% assign children = site.tower | sort: "order" %}
         {% elsif parent.url == '/spd/item' %}
-          {% assign children = site.item %}
+          {% assign children = site.item | sort: "order" %}
         {% elsif parent.url == '/spd/enemy' %}
-          {% assign children = site.enemy %}
+          {% assign children = site.enemy | sort: "order" %}
         {% elsif parent.url == '/spd/boss' %}
-          {% assign children = site.boss %}
+          {% assign children = site.boss | sort: "order" %}
         {% endif %}
 
         {% for child in children %}

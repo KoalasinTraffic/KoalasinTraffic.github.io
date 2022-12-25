@@ -18,3 +18,7 @@ collections:
     output: true
     permalink: /spd/:collection/:title/
     sort_by: order
+  boss:
+    output: true
+    permalink: /spd/:collection/:title/
+    sort_by: order
