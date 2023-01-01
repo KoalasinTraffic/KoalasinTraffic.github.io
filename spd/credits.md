@@ -49,6 +49,8 @@ Although a lot of the resources used are [CC0](https://creativecommons.org/publi
 
 * [Niskala Huruf](https://www.etsy.com/shop/nhfonts)
   * [Party Confetti Font](https://www.fontspace.com/party-confetti-font-f69513)
+* [Jeremy Statz](http://kittehface.com)
+  * [Controller Prompts - Xbox, Playstation, Switch, PC](https://opengameart.org/content/free-controller-prompts-xbox-playstation-switch-pc)
 * [Game-Icons.net](https://game-icons.net/) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
   * [Delapouite](https://delapouite.com/)
   * [Lorc](https://lorcblog.blogspot.com/)
