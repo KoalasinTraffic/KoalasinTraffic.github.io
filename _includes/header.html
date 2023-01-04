@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' }}">
     {% if spd %}
       <link rel="shortcut icon" type="image/png" href="/favicon-spd.png">
+    {% else %}
+      <link rel="shortcut icon" type="image/png" href="/favicon.png">
     {% endif %}
   </head>
 
@@ -17,25 +19,28 @@
   <body>
     <header class="page-header" role="banner">
 
-      {% if spd %}
-        <a href="/spd">
-          <img class="banner-spd" src="/assets/images/spd.png">
-        </a>
-      {% endif %}
       <h1 class="project-name">{{ title }}</h1>
-      <h2 class="project-tagline">{{ description }}</h2>
+      <h2 class="project-name">
+        {% if spd %}
+          <a href="/spd">
+            <img class="banner-spd" src="/assets/images/small-people-defense.png" alt="small-people-defense.png">
+          </a>
+        {% else %}
+          <img class="banner-koala" src="/assets/images/profile-pic.png" alt="profile-pic.png">
+        {% endif %}
+      </h2>
 
       <a href="/spd" class="btn">Small People Defense</a>
       <a href="/" class="btn">Author</a>
 
       <br class="desktop-break"/>
-      <a class="btn-icon" href="https://twitter.com/KoalasinTraffic">
+      <a class="btn-icon" href="https://twitter.com/KoalasinTraffic" target="_blank" rel="noopener noreferrer">
         <img src="/assets/images/twitter.png" alt="Twitter" alt="Twitter">
       </a>
-      <a class="btn-icon" href="https://store.steampowered.com/search/?developer=Koalas%20in%20Traffic">
+      <a class="btn-icon" href="https://store.steampowered.com/search/?developer=Koalas%20in%20Traffic" target="_blank" rel="noopener noreferrer">
         <img src="/assets/images/steam.png" alt="Steam" title="Steam">
       </a>
-      <a class="btn-icon" href="https://koalasintraffic.bandcamp.com/">
+      <a class="btn-icon" href="https://koalasintraffic.bandcamp.com/" target="_blank" rel="noopener noreferrer">
         <img src="/assets/images/bandcamp.png" alt="Bandcamp" alt="Bandcamp">
       </a>
 

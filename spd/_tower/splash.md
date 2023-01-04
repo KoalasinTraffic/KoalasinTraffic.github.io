@@ -1,7 +1,6 @@
 ---
 layout: spd
 title: Splash
-order: 2
 ---
 
 # Splash Tower
@@ -15,3 +14,6 @@ The best area of effect (AOE) tower in the game.
 * No status effects.
 
 * AI: Targets the closest enemy and focuses it until out of range.
+
+<img src="/assets/images/spd/tower-splash-unbuilt.jpg" width="256" height="256">
+<img src="/assets/images/spd/tower-splash.jpg" width="256" height="256">

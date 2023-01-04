@@ -1,6 +1,6 @@
 ---
 layout: spd
-title: Store Page
+title: Store Page is Live
 ---
 
 After a week's worth of work, I finally finished my first trailer. Along with a new logo, all graphics are now on the [steam store](https://store.steampowered.com/app/2239870/). My goal is to get 100 wishlists before releasing at the end of 2023!

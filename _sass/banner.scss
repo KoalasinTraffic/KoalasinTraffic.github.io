@@ -1,5 +1,6 @@
 /* Banner image on top if used */
 .banner-spd {
+  color: white;
   width: 352px;
   height: 240px;
 }
@@ -13,5 +14,23 @@
   .banner-spd {
     width: 176px;
     height: 120px;
+  }
+}
+
+.banner-koala {
+  color: white;
+  width: 192px;
+  height: 128px;
+}
+@media screen and (max-width: 64em) {
+  .banner-koala {
+    width: 144px;
+    height: 96px;
+  }
+}
+@media screen and (max-width: 42em) {
+  .banner-koala {
+    width: 96px;
+    height: 64px;
   }
 }
