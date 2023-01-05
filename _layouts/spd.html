@@ -1,5 +1,4 @@
 {% assign spd = true %}
-
 {% include header.html %}
 
 <div id="container">
@@ -18,7 +17,7 @@
 
     {% if page.previous == nil and page.next == nil %}
 
-      <!-- Auto generate previous next for sublinks -->
+      <!-- Begin auto generate previous next for sublinks -->
       {% assign entries = site.data.spd | sort: "order" %}
       {% for entry in entries %}
         {% if found %}
@@ -39,10 +38,12 @@
       {% if found %}
         {% include prev-next.html purl=prev_url ptext=prev_text nurl=next_url ntext=next_text %}
       {% endif %}
+      <!-- End auto generate previous next for sublinks -->
 
     {% else %}
-      <!-- Auto generate previous next for navigation links -->
+      <!-- Begin auto generate previous next for navigation links -->
       {% include prev-next.html purl=page.previous.url ptext=page.previous.title nurl=page.next.url ntext=page.next.title %}
+      <!-- End auto generate previous next for navigation links -->
     {% endif %}
   </div>
 

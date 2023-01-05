@@ -1,10 +1,8 @@
 ---
 ---
-/* Empty front matter is required */
+@import "{{ site.theme }}";
 
 /* Cayman theme uses 64em for small window and 42em for mobile */
-@import "jekyll-theme-cayman";
-
 @import "banner";
 @import "socials";
 @import "prevnext";

@@ -1,14 +1,14 @@
 ---
 layout: about
-title: KoalasinTraffic
+title: Koalas in Traffic
 ---
 
 # Who Am I
 
 I'm a hobbyist who's interested in [game development](/spd), programming, writing music, and working on cool projects. You can find me on
 
-* [Steam](https://store.steampowered.com/search/?developer=Koalas%20in%20Traffic)
-* [Twitter](https://twitter.com/KoalasinTraffic)
+* [Steam](https://store.steampowered.com/search/?developer=Koalas%20in%20Traffic){:target="_blank" rel="noopener noreferrer"}
+* [Twitter](https://twitter.com/KoalasinTraffic){:target="_blank" rel="noopener noreferrer"}
 
 Here's a picture of a baby koala &#128522;
 
