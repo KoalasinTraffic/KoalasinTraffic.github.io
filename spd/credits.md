@@ -62,3 +62,7 @@ Although a lot of the resources used are [CC0](https://creativecommons.org/publi
 * [Makai Symphony](https://soundcloud.com/makai-symphony)
   * [All Out Attack](https://soundcloud.com/makai-symphony/all-out-attack-epic-battle)
 
+# Sound Effects
+
+* [Cafofo Music](https://cafofomusic.com/)
+  * [Magic & Spell Sounds PRO](https://www.unrealengine.com/marketplace/en-US/product/magic-spell-sounds-pro)
