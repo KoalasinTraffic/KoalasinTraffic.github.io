@@ -1,3 +1,3 @@
 # koalasintraffic.github.io
 
-Official website for user Koalas in Traffic and projects including Small People Defense
+Official website for Koalas in Traffic and Small People Defense

@@ -23,6 +23,6 @@ This twist on a proven classic allows for multiple viable strategies. There are 
 
 # Coming Out Late 2023!
 
-To contact me, join the discord: [https://discord.gg/hu2Pv49suW](https://discord.gg/hu2Pv49suW){:target="_blank" rel="noopener noreferrer"}
+Join our Small community on discord: [https://discord.gg/hu2Pv49suW](https://discord.gg/hu2Pv49suW){:target="_blank" rel="noopener noreferrer"}
 
 Wishlist on steam now: [https://store.steampowered.com/app/2239870/](https://store.steampowered.com/app/2239870/){:target="_blank" rel="noopener noreferrer"}
