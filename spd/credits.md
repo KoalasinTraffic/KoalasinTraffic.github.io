@@ -9,14 +9,15 @@ The creation of Small People Defense would not have been possible without all of
 
 Although a lot of the resources used are [CC0](https://creativecommons.org/publicdomain/zero/1.0/) or royalty-free, I'm including everything in this comprehensive list. Assets may have been modified in the making of Small People Defense.
 
-# Software and Tools
+# Software And Tools
 
 * [Unreal Engine](https://www.unrealengine.com/)
 * [GIMP](https://www.gimp.org/)
 * [Blender](https://www.blender.org/)
 * [Visual Studio](https://visualstudio.microsoft.com/)
+* [Audacity](https://www.audacityteam.org/)
 
-# Unreal Engine Meshes
+# Unreal Engine Meshes And Characters
 
 * [Giant Sparrow](https://www.giantsparrow.com/)
   * [Edith Finch: Cannery and LowPoly Kingdom](https://www.unrealengine.com/marketplace/en-US/product/ef-cannery-kingdom)
@@ -33,8 +34,10 @@ Although a lot of the resources used are [CC0](https://creativecommons.org/publi
   * [Kraken](https://www.unrealengine.com/marketplace/en-US/product/kraken)
 * [Patchs](https://www.unrealengine.com/marketplace/en-US/profile/Patchs)
   * [Food Pack 01](https://www.unrealengine.com/marketplace/en-US/product/food-pack)
+* [Lilpupinduy](https://www.unrealengine.com/marketplace/en-US/profile/Lilpupinduy?count=20&sortBy=effectiveDate&sortDir=DESC&start=0)
+  * [Undead Pack](https://www.unrealengine.com/marketplace/en-US/product/undead-pack-01)
 
-# Unreal Engine Effects and Animations
+# Unreal Engine Effects And Animations
 
 * [tharle VFX](https://www.tharlevfx.com/)
   * [RPG FX Starter Pack](https://www.unrealengine.com/marketplace/en-US/product/rpg-fx-starter-pack)
