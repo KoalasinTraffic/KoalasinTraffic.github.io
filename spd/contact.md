@@ -24,7 +24,7 @@ title: Contact
     <option>Question about game</option>
     <option>Comment about game</option>
     <option>Report a problem or need help</option>
-    <option>Question for author</option>
+    <option>Contact author</option>
   </select><br/>
 
   <label><b>Message</b></label><br/>
