@@ -15,7 +15,7 @@ title: News
       {% if counter == 0 %}
         {% assign counter = counter | plus:1 %}
         <br/><br/>
-        <pre style="white-space: pre-wrap">{{ post.excerpt | strip_newlines }}</pre>
+        <pre style="white-space:pre-wrap">{{ post.excerpt | strip_newlines }}</pre>
         <br/>
       {% endif %}
     </li>

@@ -3,7 +3,7 @@
 {% for parent in site.data.spd %}
 
   {% if parent.url == '/spd' %}
-    <li style="margin-top: 1em;">
+    <li style="margin-top:1em">
       {% if page.url == '/spd/' %}
         <a class="current-parent" href="{{ site.baseurl }}{{ parent.url }}">{{ parent.title }}</a>
       {% else %}
