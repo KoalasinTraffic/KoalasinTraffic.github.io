@@ -5,10 +5,12 @@ title: Koalas in Traffic
 
 # Who Am I
 
-I'm a hobbyist who's interested in [game development](/spd), programming, writing music, and working on cool projects. You can find me on
+I'm a hobbyist who's interested in game development, programming, writing music, and working on cool projects. Currently working on [Small People Defense](/spd).
 
+You can contact me by
+
+* [Email](/spd/contact)
 * [Discord](https://discord.gg/hu2Pv49suW){:target="_blank" rel="noopener noreferrer"}
-* [Steam](https://store.steampowered.com/search/?developer=Koalas%20in%20Traffic){:target="_blank" rel="noopener noreferrer"}
 * [Twitter](https://twitter.com/KoalasinTraffic){:target="_blank" rel="noopener noreferrer"}
 
 Here's a picture of a baby koala &#128522;
