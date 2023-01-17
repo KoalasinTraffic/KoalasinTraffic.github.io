@@ -5,7 +5,7 @@ title: Contact
 
 # Contact Developer
 
-<form action="https://getform.io/f/02a3564b-9d9e-4cce-8692-50d97bf3c7de" method="POST">
+<form action="https://getform.io/f/02a3564b-9d9e-4cce-8692-50d97bf3c7de" method="POST" enctype="multipart/form-data">
   <label><b>Email Address</b></label><br/>
   <input type="email" name="email" minlength="8" maxlength="256" placeholder="Enter your email"
     oninvalid="this.setCustomValidity('Please enter a valid email')"
