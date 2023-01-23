@@ -5,7 +5,7 @@ title: Small People Defense
 
 # A Twist On A Proven Classic
 
-[Small People Defense](https://store.steampowered.com/app/2239870/){:target="_blank" rel="noopener noreferrer"} is a beautiful 3rd-person tower defense game where you queue up your own difficulty. Challenge yourself in this real-time strategy TD game by rushing incoming waves to get bonus points. Or simply enjoy leveling up your *small person* into the largest in the world!
+Official website for [Small People Defense](https://store.steampowered.com/app/2239870/){:target="_blank" rel="noopener noreferrer"}, an indie 3rd-person tower defense game where you queue up your own difficulty. Challenge yourself in this real-time strategy TD game by rushing incoming waves to get bonus points. Or simply enjoy leveling up your *small person* into the largest in the world!
 
 <iframe width="100%" height="270" src="https://cdn.akamai.steamstatic.com/steam/apps/256921850/movie480_vp9.webm" frameborder="0" allowfullscreen></iframe>
 

@@ -3,6 +3,8 @@ layout: spd
 title: Website Launch
 ---
 
+# Website Launch
+
 The first official launch of my website is live! This site will serve as the landing ground for news, patches, and the most up-to-date information related to Small People Defense.
 
 After spending over a year developing my first game, the wiki page is finally born. I'm a solo developer and a complete novice when it comes to game development and building a website. Please let me know if there are any issues on my discord server!

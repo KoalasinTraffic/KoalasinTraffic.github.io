@@ -1,6 +1,8 @@
-<meta name="title" content="Small People Defense">
-<meta name="description" content="Official website for Small People Defense, an indie tower defense game where you queue up your own difficulty">
-<meta name="keywords" content="small, people, tower, defense, defence, td, indie, game">
-<meta name="robots" content="index, nofollow">
+{% assign page_excerpt = content | newline_to_br | split:'<br />' | slice:2 %}
+{% assign page_excerpt = page_excerpt | strip_html | remove:'["\n' | remove:'"]' %}
+<meta name="title" content="{{ page.title }}">
+<meta name="description" content="{{ page_excerpt | truncate:160 }}">
+<meta name="keywords" content="smallpeopledefense, small, people, tower, defense, defence, td, indie, game">
+<meta name="robots" content="index">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="language" content="English">
