@@ -59,6 +59,7 @@ Although a lot of the resources used are [CC0](https://creativecommons.org/publi
   * [Lorc](https://lorcblog.blogspot.com/)
   * [sbed](http://opengameart.org/content/95-game-icons)
   * [Skoll](https://game-icons.net/)
+  * [Guard13007](https://guard13007.com/)
 
 # Music
 
