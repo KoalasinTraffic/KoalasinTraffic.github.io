@@ -7,14 +7,14 @@ title: Credits
 
 The creation of Small People Defense would not have been possible without all of the amazing resources available on the internet. A huge thanks to every single one of them!
 
-Although a lot of the resources used are [CC0](https://creativecommons.org/publicdomain/zero/1.0/) or royalty-free, I'm including everything in this comprehensive list. Assets may have been modified in the making of Small People Defense.
+Although a lot of the resources used are [CC0](https://creativecommons.org/publicdomain/zero/1.0/) or royalty-free, I'm including everything in this comprehensive list. Assets may have been modified in the making of Small People Defense. Contact me for more info.
 
 # Software And Tools
 
 * [Unreal Engine](https://www.unrealengine.com/)
 * [GIMP](https://www.gimp.org/)
-* [Blender](https://www.blender.org/)
 * [Visual Studio](https://visualstudio.microsoft.com/)
+* [Blender](https://www.blender.org/)
 * [Audacity](https://www.audacityteam.org/)
 
 # Unreal Engine Meshes And Characters
@@ -27,6 +27,8 @@ Although a lot of the resources used are [CC0](https://creativecommons.org/publi
   * [Advanced Village Pack](https://www.unrealengine.com/marketplace/en-US/product/advanced-village-pack)
 * [CH Assets](https://assetstore.unity.com/publishers/5166)
   * [Lowpoly Style Asia Environment](https://www.unrealengine.com/marketplace/en-US/product/lowpoly-style-asia-environment)
+* [Angel Fernandes](https://angelfernandes.artstation.com/)
+  * [Modular Gothic Temple](https://www.unrealengine.com/marketplace/en-US/product/modular-gothic-temple-medieval-winter-snow)
 * [Uppercut Games](https://www.uppercut-games.com/)
   * [City of Brass: Enemies](https://www.unrealengine.com/marketplace/en-US/product/b7cbc53813a24db1a5bd42f75151698c)
 * [PROTOFACTOR](https://protofactor.biz/)
@@ -63,10 +65,17 @@ Although a lot of the resources used are [CC0](https://creativecommons.org/publi
 
 # Music
 
+* [SerpentSound Studios by Alexander Nakarada](https://www.serpentsoundstudios.com/) ([CC by 4.0](http://creativecommons.org/licenses/by/4.0/))
+  * [Haven](https://soundcloud.com/serpentsoundstudios/haven)
+  * Complete list coming soon
+
+# Trailer Credits
 * [Makai Symphony](https://soundcloud.com/makai-symphony)
   * [All Out Attack](https://soundcloud.com/makai-symphony/all-out-attack-epic-battle)
 
 # Sound Effects
 
+* [Freesound](https://freesound.org/)
+  * Complete list coming soon
 * [Cafofo Music](https://cafofomusic.com/)
   * [Magic & Spell Sounds PRO](https://www.unrealengine.com/marketplace/en-US/product/magic-spell-sounds-pro)
