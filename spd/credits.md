@@ -77,7 +77,7 @@ Although a lot of the resources used are [CC0](https://creativecommons.org/publi
 
 * [Freesound](https://freesound.org/)
   * Complete list coming soon
-* [Epic Stock Media](https://cafofomusic.com/](https://epicstockmedia.com)
+* [Epic Stock Media](https://epicstockmedia.com)
   * [UI/UX Sounds for Games](https://epicstockmedia.com/freesounds/esm-free-sounds-week-1/)
   * [Explosions & Bombs](https://epicstockmedia.com/freesounds/free-sounds-bombandexplosions/)
   * [Magic Sounds](https://epicstockmedia.com/freesounds/magic-sounds-week-6/)
