@@ -66,8 +66,8 @@ Although a lot of the resources used are [CC0](https://creativecommons.org/publi
 # Music
 
 * [SerpentSound Studios by Alexander Nakarada](https://www.serpentsoundstudios.com/) ([CC by 4.0](http://creativecommons.org/licenses/by/4.0/))
+  * [Umoja](https://soundcloud.com/serpentsoundstudios/ethnic-orchestral-umoja-royalty-free-download)
   * [Haven](https://soundcloud.com/serpentsoundstudios/haven)
-  * Complete list coming soon
 
 # Trailer Credits
 * [Makai Symphony](https://soundcloud.com/makai-symphony)
@@ -76,7 +76,10 @@ Although a lot of the resources used are [CC0](https://creativecommons.org/publi
 # Sound Effects
 
 * [Freesound](https://freesound.org/)
-  * Complete list coming soon
+  * [Gunshot 2 laser.wav](https://freesound.org/people/GaryQ/sounds/111047/)
+  * [Explosion](https://freesound.org/people/qubodup/sounds/182429/)
+  * [Poink.m4a](https://freesound.org/people/Berkem27/sounds/615433/)
+  * [Hover 1](https://freesound.org/people/plasterbrain/sounds/237422/)
 * [Epic Stock Media](https://epicstockmedia.com)
   * [UI/UX Sounds for Games](https://epicstockmedia.com/freesounds/esm-free-sounds-week-1/)
   * [Explosions & Bombs](https://epicstockmedia.com/freesounds/free-sounds-bombandexplosions/)
