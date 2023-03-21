@@ -6,6 +6,10 @@
   url: /spd/tower
 - title: Items
   url: /spd/item
+- title: Enemies
+  url: /spd/enemy
+- title: Bosses
+  url: /spd/boss
 - title: Credits
   url: /spd/credits
 - title: Contact

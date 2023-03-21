@@ -43,11 +43,12 @@
   #navbar {
     order: 2;
     width: 20%;
-    padding-left: 1em;
+    padding-left: 2em;
   }
   #content {
     order: 1;
     width: 80%;
+    text-align: justify;
   }
 }
 
@@ -65,5 +66,6 @@
   #content {
     order: 1;
     width: 100%;
+    text-align: justify;
   }
 }

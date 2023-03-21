@@ -1,3 +1,20 @@
+/* Reduce default header padding where padding: topbottom leftright */
+@media screen and (min-width: 64em) {
+  .page-header {
+    padding: 2rem 3rem; /* default was 5rem 6rem */
+  }
+}
+@media screen and (min-width: 42em) and (max-width: 64em) {
+  .page-header {
+    padding: 1rem 2rem; /* default was 3rem 4rem */
+  }
+}
+@media screen and (max-width: 42em) {
+  .page-header {
+    padding: .5rem 1rem; /* default was 2rem 1rem */
+  }
+}
+
 /* Banner image on top if used */
 .banner-spd {
   color: #fff;
