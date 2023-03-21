@@ -15,7 +15,7 @@ You can contact me by
 
 # Mailing List
 
-Subscribe to my mailing list to get notified about major updates.
+Subscribe to my mailing list to get notified about my projects.
 
 <!-- Begin Mailchimp Signup Form -->
 <div id="mc_embed_signup">

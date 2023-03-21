@@ -7,7 +7,7 @@ title: Credits
 
 The creation of Small People Defense would not have been possible without all of the amazing resources available on the internet. A huge thanks to every single one of them!
 
-Although a lot of the resources used are [CC0](https://creativecommons.org/publicdomain/zero/1.0/) or royalty-free, I'm including everything in this comprehensive list. Assets may have been modified in the making of Small People Defense. Contact me for more info.
+Although some resources used are royalty-free or [CC0](https://creativecommons.org/publicdomain/zero/1.0/), I tried to include everything in this comprehensive list for other developers who might find this useful. Assets may have been modified in the making of Small People Defense. Feel free to contact me for more info.
 
 # Software And Tools
 
