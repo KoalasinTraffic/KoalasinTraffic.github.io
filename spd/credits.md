@@ -5,7 +5,7 @@ title: Credits
 
 # Credits
 
-The creation of Small People Defense would not have been possible without all of the amazing resources available on the internet. A huge thanks to every single one of them!
+The creation of Small People Defense would not have been possible without all of the amazing creators who provide their work for others to use. A huge thanks to every single one of them!
 
 Although some resources used are royalty-free or [CC0](https://creativecommons.org/publicdomain/zero/1.0/), I tried to include everything in this comprehensive list for other developers who might find this useful. Assets may have been modified in the making of Small People Defense. Feel free to contact me for more info.
 
@@ -16,6 +16,50 @@ Although some resources used are royalty-free or [CC0](https://creativecommons.o
 * [Visual Studio](https://visualstudio.microsoft.com/)
 * [Blender](https://www.blender.org/)
 * [Audacity](https://www.audacityteam.org/)
+
+# Music
+
+* All music used is from [SerpentSound Studios by Alexander Nakarada](https://www.serpentsoundstudios.com/) ([CC by 4.0](http://creativecommons.org/licenses/by/4.0/))
+* Level A Tracks
+  * Map AH. [Memeface Rockathon](https://soundcloud.com/serpentsoundstudios/memeface-rockathon)
+  * Map AA. [Farm](https://soundcloud.com/serpentsoundstudios/farm)
+  * Map AB. [Mountain Walk](https://soundcloud.com/serpentsoundstudios/mountain-walk)
+  * Map AC. [Neverland](https://soundcloud.com/serpentsoundstudios/neverland-no-copyright-cinematic-fantasy-music)
+  * Map AD. [Planning](https://soundcloud.com/serpentsoundstudios/planning)
+  * Map AE. [Might & Magic](https://soundcloud.com/serpentsoundstudios/might-magic)
+  * Map AF. [Magic Tavern](https://soundcloud.com/serpentsoundstudios/magic-tavern)
+  * Kraken. [The Enemy](https://soundcloud.com/serpentsoundstudios/the-enemy)
+* Level B Tracks
+  * Map BA. [Wintersong](https://soundcloud.com/serpentsoundstudios/wintersong)
+  * Map BB. [Traveler](https://soundcloud.com/serpentsoundstudios/traveler-celtic-soundtrack)
+  * Map BC. [Mjoi](https://soundcloud.com/serpentsoundstudios/mjoi)
+  * Map BD. [Enchanted Forest](https://soundcloud.com/serpentsoundstudios/enchanted-forest)
+  * Map BE. [Dreamy Interlude](https://soundcloud.com/serpentsoundstudios/dreamy-interlude)
+  * Map BF. [Now We Ride](https://soundcloud.com/serpentsoundstudios/now-we-ride)
+  * Dragon. [Finale, Pt. 2](https://soundcloud.com/serpentsoundstudios/9-finale-part-ii)
+* Level C Tracks
+  * Map CA. [Haven](https://soundcloud.com/serpentsoundstudios/haven)
+  * Map CB. [Seven Seas](https://soundcloud.com/serpentsoundstudios/seven-seas)
+  * Map CC. [Land of Pirates](https://soundcloud.com/serpentsoundstudios/land-of-pirates)
+  * Map CD. [Red Baron's Theme](https://soundcloud.com/serpentsoundstudios/red-barons-theme)
+  * Map CE. [Pirates of the Quarantine](https://soundcloud.com/serpentsoundstudios/pirates-of-the-quarantine)
+  * Map CF. [The Return (Recreated)](https://soundcloud.com/serpentsoundstudios/epic-orchestral-the-return-version-2)
+  * Centaur. [Near End Action](https://soundcloud.com/serpentsoundstudios/near-end-action)
+  * Barghest. [Chase](https://soundcloud.com/serpentsoundstudios/3-chase-44-1khz-16bit)
+* Level D Tracks
+  * Map DA. [Explorer](https://soundcloud.com/serpentsoundstudios/4-explorer)
+  * Map DB. [Crescendiocity](https://soundcloud.com/serpentsoundstudios/crescendiocity)
+  * Map DC. [Dragonsong](https://soundcloud.com/serpentsoundstudios/dragonsong)
+  * Map DD. [Dungeons and Dragons](https://soundcloud.com/serpentsoundstudios/dungeons-and-dragons)
+  * Map DE. [Slow Walk Into The Sunset](https://soundcloud.com/serpentsoundstudios/slow-walk-into-the-sunset)
+  * Map DF. [Life](https://soundcloud.com/serpentsoundstudios/1-life)
+  * Lich. [The Great Battle](https://soundcloud.com/serpentsoundstudios/the-great-battle)
+  * Doom. [Trailer](https://soundcloud.com/serpentsoundstudios/1-trailer)
+* Miscellaneous
+  * Main Menu. [Umoja](https://soundcloud.com/serpentsoundstudios/ethnic-orchestral-umoja-royalty-free-download)
+  * 0-2 stars. [Losing Loop](https://soundcloud.com/serpentsoundstudios/losing-loop)
+  * 3-4 stars. [Superepic](https://soundcloud.com/serpentsoundstudios/superepic)
+  * 5 stars. [Megaepic](https://soundcloud.com/serpentsoundstudios/megaepic)
 
 # Unreal Engine Meshes And Characters
 
@@ -63,13 +107,7 @@ Although some resources used are royalty-free or [CC0](https://creativecommons.o
   * [Skoll](https://game-icons.net/)
   * [Guard13007](https://guard13007.com/)
 
-# Music
-
-* [SerpentSound Studios by Alexander Nakarada](https://www.serpentsoundstudios.com/) ([CC by 4.0](http://creativecommons.org/licenses/by/4.0/))
-  * [Umoja](https://soundcloud.com/serpentsoundstudios/ethnic-orchestral-umoja-royalty-free-download)
-  * [Haven](https://soundcloud.com/serpentsoundstudios/haven)
-
-# Trailer Credits
+# Trailer
 * [Makai Symphony](https://soundcloud.com/makai-symphony)
   * [All Out Attack](https://soundcloud.com/makai-symphony/all-out-attack-epic-battle)
 
