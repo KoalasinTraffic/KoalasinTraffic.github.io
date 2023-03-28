@@ -19,7 +19,7 @@ Although some resources used are royalty-free or [CC0](https://creativecommons.o
 
 # Music
 
-* All music used is from [SerpentSound Studios by Alexander Nakarada](https://www.serpentsoundstudios.com/) ([CC by 4.0](http://creativecommons.org/licenses/by/4.0/))
+* All in-game music is from [SerpentSound Studios by Alexander Nakarada](https://www.serpentsoundstudios.com/) ([CC by 4.0](http://creativecommons.org/licenses/by/4.0/))
 * Level A Tracks
   * Map AH. [Memeface Rockathon](https://soundcloud.com/serpentsoundstudios/memeface-rockathon)
   * Map AA. [Farm](https://soundcloud.com/serpentsoundstudios/farm)
@@ -108,9 +108,10 @@ Although some resources used are royalty-free or [CC0](https://creativecommons.o
   * [Skoll](https://game-icons.net/)
   * [Guard13007](https://guard13007.com/)
 
-# Trailer
-* [Makai Symphony](https://soundcloud.com/makai-symphony)
+# Trailer Only
+* [Makai Symphony](http://makai-symphony.com/) ([CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/))
   * [All Out Attack](https://soundcloud.com/makai-symphony/all-out-attack-epic-battle)
+  * [Across The Fields](https://soundcloud.com/makai-symphony/across-the-fields)
 
 # Sound Effects
 
