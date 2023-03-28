@@ -57,6 +57,7 @@ Although some resources used are royalty-free or [CC0](https://creativecommons.o
   * Doom. [Trailer](https://soundcloud.com/serpentsoundstudios/1-trailer)
 * Miscellaneous
   * Main Menu. [Umoja](https://soundcloud.com/serpentsoundstudios/ethnic-orchestral-umoja-royalty-free-download)
+  * Cinematic. [The Empire](https://soundcloud.com/serpentsoundstudios/the-empire-epic-fantasy-soundtrack)
   * 0-2 stars. [Losing Loop](https://soundcloud.com/serpentsoundstudios/losing-loop)
   * 3-4 stars. [Superepic](https://soundcloud.com/serpentsoundstudios/superepic)
   * 5 stars. [Megaepic](https://soundcloud.com/serpentsoundstudios/megaepic)
