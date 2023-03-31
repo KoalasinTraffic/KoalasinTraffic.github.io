@@ -5,5 +5,14 @@ title: Dragon
 
 # Dragon Boss
 
+The dragon soars to the skies and becomes invulnerable periodically. Upon landing, the dragon blows back nearby towers, creating chaos among your defenses. The blow back amount is scaled to be larger for towers closer to this boss.
+
+Flying duration: 7 seconds
+
+Flying frequency: 14 seconds
+
+Health: 140%
+
+Movement Speed: 100%
 
 <img src="/assets/images/spd/enemy-dragon.gif" width="449" height="283">

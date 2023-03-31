@@ -5,5 +5,14 @@ title: Kraken
 
 # Kraken Boss
 
+The kraken periodically strikes nearby towers with its tentacles and can [destroy towers](/spd/tower) with its massive damage. This action can not be stopped. This boss is the main disruptor for mazing levels, but can still be recovered through quick tactics.
+
+Attack damage: 10 HP
+
+Attack frequency: 9 seconds
+
+Health: 180%
+
+Movement Speed: 71%
 
 <img src="/assets/images/spd/enemy-kraken.gif" width="449" height="283">
