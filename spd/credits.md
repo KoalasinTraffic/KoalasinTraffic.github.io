@@ -99,14 +99,16 @@ Although some resources used are royalty-free or [CC0](https://creativecommons.o
 
 * [Niskala Huruf](https://www.etsy.com/shop/nhfonts)
   * [Party Confetti Font](https://www.fontspace.com/party-confetti-font-f69513)
-* [Jeremy Statz](http://kittehface.com)
-  * [Controller Prompts - Xbox, Playstation, Switch, PC](https://opengameart.org/content/free-controller-prompts-xbox-playstation-switch-pc)
 * [Game-Icons.net](https://game-icons.net/) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
   * [Delapouite](https://delapouite.com/)
   * [Lorc](https://lorcblog.blogspot.com/)
   * [sbed](http://opengameart.org/content/95-game-icons)
   * [Skoll](https://game-icons.net/)
   * [Guard13007](https://guard13007.com/)
+* [Jeremy Statz](http://kittehface.com)
+  * [Controller Prompts - Xbox, Playstation, Switch, PC](https://opengameart.org/content/free-controller-prompts-xbox-playstation-switch-pc)
+* [System G6](https://opengameart.org/users/system-g6)
+  * [RPG UI](https://opengameart.org/content/rpg-ui-1)
 
 # Trailer Only
 * [Makai Symphony](http://makai-symphony.com/) ([CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/))
