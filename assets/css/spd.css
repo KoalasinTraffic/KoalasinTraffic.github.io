@@ -2,7 +2,8 @@
 .page-header {
   color: #fff;
   text-align: center;
-  background-color: #159957;
   background-image: url("/assets/images/spd/library-hero.jpg");
-  background-size: 100% auto;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
