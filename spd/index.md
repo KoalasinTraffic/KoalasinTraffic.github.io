@@ -27,8 +27,8 @@ Also, tower placements are key because slow projectiles will miss if enemies mov
 
 This twist on a proven classic has many viable strategies. Although it is more cost efficient to focus on leveling up a single tower, enemies require a diverse set of defenses. Power up your towers and use unlockable items to open the endless possibilities!
 
-# Early Access Out Now!
+# Play Early Access Now!
 
-Join our Small community on discord: [https://discord.gg/hu2Pv49suW](https://discord.gg/hu2Pv49suW){:target="_blank" rel="noopener noreferrer"}
+Steam: [https://store.steampowered.com/app/2239870/](https://store.steampowered.com/app/2239870/){:target="_blank" rel="noopener noreferrer"}
 
-Get it on steam: [https://store.steampowered.com/app/2239870/](https://store.steampowered.com/app/2239870/){:target="_blank" rel="noopener noreferrer"}
+Discord: [https://discord.gg/hu2Pv49suW](https://discord.gg/hu2Pv49suW){:target="_blank" rel="noopener noreferrer"}
