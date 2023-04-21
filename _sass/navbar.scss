@@ -1,8 +1,11 @@
 /* Navigation for SPD */
 
+/* Greens from https://paletton.com/#uid=1300u0krBrngWyJlPtdtmlDzhgJ */
+/* Blues from https://paletton.com/#uid=13h0u0kqvpcgCwilvs1t1kqzJfo */
+
 /* Font */
 #navbar li a {
-  padding-left: .25em;
+  padding-left: 0em;
   color: #fff;
   text-decoration: none;
   display: block;
@@ -10,27 +13,28 @@
 
 /* Base */
 #navbar ul {
-  background-color: #1e6bb8;
+  text-align: center;
+  background-color: #157a75; /* color of child */
   padding: 0em;
   list-style: none;
 }
 #navbar li a:hover {
-  background-color: #000;
+  background-color: #57B987;
 }
 
 /* Stylize parent different from child */
 #navbar .parent {
-  background-color: #159957;
+  background-color: #159956;
 }
 #navbar .child {
-  padding-left: .5em;
+  padding-left: 0em;
 }
 #navbar .current-parent {
-  background-color: #0b4d2c;
+  background-color: #005D2E;
 }
 #navbar .current-child {
-  background-color: #0f365c;
-  padding-left: .5em;
+  background-color: #004A47;
+  padding-left: 0em;
 }
 
 /* Two column for desktop */
