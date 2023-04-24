@@ -11,7 +11,7 @@ The best stunning tower in the game.
 
 * No projectile: Lightning strikes instantly and does not miss.
 
-* Stun effect: Struck enemies will be stunned for 1 second if and only if the enemy is already slowed and burning. If these conditions are met, bonus damage will be dealt and invulnerability can be removed. Damage will be x2 for regular enemies and x4 for bosses.
+* Stun effect: Struck enemies will be stunned for 1 second if and only if the enemy is already slowed and burning. If these conditions are met, bonus damage will be dealt and invulnerability can be removed. Damage will be x2 for regular enemies and x3 for bosses.
 
 * AI: Targets slowed and burning enemies first.
 
