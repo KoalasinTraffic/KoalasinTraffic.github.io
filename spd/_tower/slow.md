@@ -15,5 +15,7 @@ The best slowing tower in the game.
 
 * AI: Targets burning enemies and focuses it until out of range.
 
+After evolving, the slow tower will deal area of effect (AoE) slow and damage on impact. Damage is spread evenly among the number of enemies hit.
+
 <img src="/assets/images/spd/tower-slow-unbuilt.jpg" width="256" height="256">
 <img src="/assets/images/spd/tower-slow.jpg" width="256" height="256">

@@ -5,6 +5,12 @@ title: Muffin
 
 # Explosive Muffin
 
-The muffin deals massive damage in an area of effect once activated.
+The bomb item deals moderate damage in an area of effect once activated.
 
-<img src="/assets/images/spd/item-muffin.jpg" width="256" height="256">
+Damage to Serf: 100% of max health
+
+Damage to Enemy: 40% of max health
+
+Damage to Boss: 10% of max health
+
+<img src="/assets/images/spd/item-bomb.gif" width="449" height="283">
