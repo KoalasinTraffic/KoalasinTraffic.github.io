@@ -5,12 +5,14 @@ title: Lich
 
 # Lich Boss
 
-The lich carries a legendary amulet that protects it from death. Only a tower with the same type can damage this boss. Casting the elemental change reduces the lich's movement by 30%.
+The lich carries a legendary amulet that protects it from damage. Only a tower with the same type can damage this boss. Casting an elemental change reduces the lich's movement by 30%.
 
-Change frequency: 6 seconds
+* Change Frequency: 6 seconds
 
-Health: 60%
+* Health: 60%
 
-Movement Speed: 91%
+* Movement Speed: 91%
+
+* Damage to Player Base: 20 HP
 
 <img src="/assets/images/spd/enemy-lich.gif" width="449" height="283">

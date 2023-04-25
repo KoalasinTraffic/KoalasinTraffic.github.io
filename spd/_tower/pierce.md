@@ -11,11 +11,25 @@ This tower will create a beam between itself and the nearest pierce tower. If no
 
 * No projectile: Beams do not miss.
 
-* Piercing effect: Enemies that are invulnerable can be damaged by piercing.
-
 * AI: None
 
+* Piercing effect: Enemies that are invulnerable can be damaged by piercing.
+
 After evolving, the pierce tower will deal an additional 10% of damage per second to all enemies that stay within the beam.
+
+# Base Stats Before Power Up
+
+* Cost: $13
+
+* Health: 8 HP
+
+* Range: Infinite
+
+* Damage: 2
+
+* Attack Speed: None
+
+* Rotation Rate: None
 
 <img src="/assets/images/spd/tower-pierce-unbuilt.jpg" width="256" height="256">
 <img src="/assets/images/spd/tower-pierce.jpg" width="256" height="256">
