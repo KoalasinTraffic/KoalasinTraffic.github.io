@@ -1,23 +1,23 @@
 ---
 layout: spd
-title: Muffin
+title: Bomb
 ---
 
 # Explosive Muffin
 
 The bomb item deals moderate damage in an area of effect once activated. This damage is only applied once unlike the other items.
 
-Damage to Serf: 100% of max health
+Damage to serf: 100% of max health
 
-Damage to Enemy: 40% of max health
+Damage to enemy: 40% of max health
 
-Damage to Boss: 10% of max health
+Damage to boss: 10% of max health
 
 <img src="/assets/images/spd/item-bomb.gif" width="449" height="283">
 
 # Hidden Locations
 
-Muffins are found in any variation of the 1st map.
+Muffins are found in any variation of the Summer maps.
 
 1. Next to spawn.
 

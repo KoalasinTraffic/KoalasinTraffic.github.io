@@ -13,8 +13,8 @@ The priest has a speed aura that can be temporarily removed with the fire tower.
 
 * Health: 80%
 
-* Movement Speed: 100%
+* Movement speed: 100%
 
-* Damage to Player Base: 2 HP
+* Damage to player base: 2 HP
 
 <img src="/assets/images/spd/enemy-priest.gif" width="449" height="283">

@@ -9,8 +9,8 @@ The troll will absorb projectiles for its allies. But as it takes more damage, i
 
 * Health: 90%
 
-* Movement Speed: 125%
+* Movement speed: 125%
 
-* Damage to Player Base: 2 HP
+* Damage to player base: 2 HP
 
 <img src="/assets/images/spd/enemy-troll.gif" width="449" height="283">

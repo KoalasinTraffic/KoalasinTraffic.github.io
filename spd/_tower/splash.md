@@ -9,7 +9,7 @@ The best area of effect (AoE) tower in the game.
 
 * Splash damage: A cannonball is launched and deals the same amount of damage to all nearby targets on impact.
 
-* Arc projectiles: Cannonballs move at moderate speeds and will miss depending on the direction of the enemies.
+* Arc projectiles: Cannonballs move at moderate speeds and can miss depending on the enemy movement.
 
 * AI: Targets the closest enemy and focuses until out of range.
 
@@ -27,9 +27,9 @@ After evolving, the splash tower will have a second cannonball that bounces upon
 
 * Damage: 1
 
-* Attack Speed: 0.8 per second
+* Attack speed: 0.8 per second
 
-* Rotation Rate: 180
+* Rotation rate: 180
 
 <img src="/assets/images/spd/tower-splash-unbuilt.jpg" width="256" height="256">
 <img src="/assets/images/spd/tower-splash.jpg" width="256" height="256">

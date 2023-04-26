@@ -27,9 +27,9 @@ After evolving, projectiles will grow over time and deal more damage the further
 
 * Damage: 1
 
-* Attack Speed: 0.8 per second
+* Attack speed: 0.8 per second
 
-* Rotation Rate: 180
+* Rotation rate: 180
 
 <img src="/assets/images/spd/tower-basic-unbuilt.jpg" width="256" height="256">
 <img src="/assets/images/spd/tower-basic.jpg" width="256" height="256">

@@ -1,6 +1,6 @@
 ---
 layout: spd
-title: Cabbage
+title: Buff
 ---
 
 # Powerful Cabbage
@@ -15,7 +15,7 @@ Damage multiplier with 7 buffs: x128
 
 # Hidden Locations
 
-Cabbages are found in any variation of the 3rd map. The easiest way to get all 7 is to search in Level 3E. Otherwise, it requires using a shore glitch to reach all locations.
+Cabbages are found in any variation of the Autumn maps. The easiest way to get all 7 is to search in Level 3E. Otherwise, it requires using a shore glitch to reach all locations.
 
 1. Next to spawn.
 

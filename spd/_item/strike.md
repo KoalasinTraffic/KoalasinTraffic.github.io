@@ -1,23 +1,23 @@
 ---
 layout: spd
-title: Pineapple
+title: Strike
 ---
 
 # Shocking Pineapple
 
 The strike item deals moderate damage to single targets once activated. Enemies are selected at random and the item will strike 6 times as long as there are targets in the area.
 
-Damage to Serf: 100% of max health per strike
+Damage to serf: 100% of max health per strike
 
-Damage to Enemy: 40% of max health per strike (240% total)
+Damage to enemy: 40% of max health per strike (240% total)
 
-Damage to Boss: 10% of max health per strike (60% total)
+Damage to boss: 10% of max health per strike (60% total)
 
 <img src="/assets/images/spd/item-strike.gif" width="449" height="283">
 
 # Hidden Locations
 
-Pineapples are found in any variation of the 4th map.
+Pineapples are found in any variation of the Winter maps.
 
 1. Next to spawn.
 

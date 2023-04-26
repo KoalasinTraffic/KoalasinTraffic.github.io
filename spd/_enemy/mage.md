@@ -9,8 +9,8 @@ The mage has a magical aura that cannot be disabled. This aura will absorb proje
 
 * Health: 130%
 
-* Movement Speed: 77%
+* Movement speed: 77%
 
-* Damage to Player Base: 2 HP
+* Damage to player base: 2 HP
 
 <img src="/assets/images/spd/enemy-mage.gif" width="449" height="283">

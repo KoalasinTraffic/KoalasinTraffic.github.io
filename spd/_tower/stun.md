@@ -29,9 +29,9 @@ After evolving, the stun tower will have a second chain lightning after each att
 
 * Damage: 1
 
-* Attack Speed: 0.8 per second
+* Attack speed: 0.8 per second
 
-* Rotation Rate: 180
+* Rotation rate: 180
 
 <img src="/assets/images/spd/tower-stun-unbuilt.jpg" width="256" height="256">
 <img src="/assets/images/spd/tower-stun.jpg" width="256" height="256">

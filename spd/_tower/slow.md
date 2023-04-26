@@ -14,6 +14,9 @@ The best slowing tower in the game.
 * AI: Targets burning enemies and focuses until out of range.
 
 * Slow effect: Struck enemies will have their movement speed slowed. If slowed by towers of different strengths, the stronger slow will persist and its duration will be refreshed.
+  * Base slow: 10%
+  * Additional slow per level: 5%
+  * Slow at max level: 75%
 
 After evolving, the slow tower will deal area of effect (AoE) slow and damage on impact. Damage is spread evenly among the number of enemies hit.
 
@@ -27,9 +30,9 @@ After evolving, the slow tower will deal area of effect (AoE) slow and damage on
 
 * Damage: 1
 
-* Attack Speed: 0.8 per second
+* Attack speed: 0.8 per second
 
-* Rotation Rate: 180
+* Rotation rate: 180
 
 <img src="/assets/images/spd/tower-slow-unbuilt.jpg" width="256" height="256">
 <img src="/assets/images/spd/tower-slow.jpg" width="256" height="256">

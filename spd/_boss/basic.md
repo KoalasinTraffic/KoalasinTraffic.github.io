@@ -9,6 +9,6 @@ In a last ditch effort, the small people sacrifice themselves to create a large 
 
 * Health: 200%
 
-* Movement Speed: 67%
+* Movement speed: 67%
 
-* Damage to Player Base: 10 HP
+* Damage to player base: 10 HP

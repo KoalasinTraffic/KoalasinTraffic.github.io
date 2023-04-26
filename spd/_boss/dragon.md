@@ -13,8 +13,8 @@ The dragon soars to the skies and becomes invulnerable periodically. Upon landin
 
 * Health: 140%
 
-* Movement Speed: 100%
+* Movement speed: 100%
 
-* Damage to Player Base: 20 HP
+* Damage to player base: 20 HP
 
 <img src="/assets/images/spd/enemy-dragon.gif" width="449" height="283">

@@ -7,8 +7,6 @@ title: Small People Defense
 
 Official website for [Small People Defense](https://store.steampowered.com/app/2239870/){:target="_blank" rel="noopener noreferrer"}, an indie 3rd-person tower defense game where you queue your own difficulty. Challenge yourself in this real-time strategy TD game by rushing incoming waves to get bonus points. Or simply enjoy leveling up your *small person* into the largest in the world!
 
-This website will provide all stats about towers, items, enemies, and bosses. Not all information is provided in game to minimize information overload for causal players. But if you're looking to optimize your strategies, check out what's available in the navigation bar.
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iubqgNdi7Jg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Features
@@ -20,6 +18,10 @@ This website will provide all stats about towers, items, enemies, and bosses. No
 * Permanent power ups and easy level progression
 * 6 challenging bosses
 * Over 10 unique enemy types
+
+# Official Wiki
+
+This website will have documentation on stats of towers, items, enemies, and bosses. Not all information is provided in game to minimize information overload for causal players. But if you're looking to optimize your strategies, check out what's available in the navigation bar.
 
 # Play Early Access Now!
 

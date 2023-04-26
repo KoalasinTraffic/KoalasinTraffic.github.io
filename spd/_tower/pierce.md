@@ -27,9 +27,9 @@ After evolving, the pierce tower will deal an additional 20% of damage per secon
 
 * Damage: 2
 
-* Attack Speed: None
+* Attack speed: None
 
-* Rotation Rate: None
+* Rotation rate: None
 
 <img src="/assets/images/spd/tower-pierce-unbuilt.jpg" width="256" height="256">
 <img src="/assets/images/spd/tower-pierce.jpg" width="256" height="256">

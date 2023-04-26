@@ -27,9 +27,9 @@ After evolving, the fire tower DoT will last 4 seconds.
 
 * Damage: 1
 
-* Attack Speed: 0.8 per second
+* Attack speed: 0.8 per second
 
-* Rotation Rate: 180
+* Rotation rate: 180
 
 <img src="/assets/images/spd/tower-fire-unbuilt.jpg" width="256" height="256">
 <img src="/assets/images/spd/tower-fire.jpg" width="256" height="256">

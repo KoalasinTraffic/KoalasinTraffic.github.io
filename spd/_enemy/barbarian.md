@@ -9,8 +9,8 @@ The barbarian has an invulnerable shield that can only be damaged with the pierc
 
 * Health: 160%
 
-* Movement Speed: 55%
+* Movement speed: 55%
 
-* Damage to Player Base: 2 HP
+* Damage to player base: 2 HP
 
 <img src="/assets/images/spd/enemy-barbarian.gif" width="449" height="283">
