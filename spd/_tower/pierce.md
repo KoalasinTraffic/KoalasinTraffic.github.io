@@ -15,7 +15,7 @@ This tower will create a beam between itself and the nearest pierce tower. If no
 
 * Piercing effect: Enemies that are invulnerable can be damaged by piercing.
 
-After evolving, the pierce tower will deal an additional 10% of damage per second to all enemies that stay within the beam.
+After evolving, the pierce tower will deal an additional 20% of damage per second to all enemies that stay within the beam.
 
 # Base Stats Before Power Up
 
