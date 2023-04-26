@@ -15,7 +15,7 @@ The cheapest and most cost efficient tower in the game.
 
 * No status effects.
 
-After evolving, projectiles will grow over time and deal more damage the further away the target is (up to x2 damage). Additionally, the range of the basic tower is increased by 50%.
+After evolving, projectiles will grow over time and deal more damage the further away the target is (up to x2 damage). Additionally, the range of the basic tower is increased by 80%.
 
 # Base Stats Before Power Up
 
