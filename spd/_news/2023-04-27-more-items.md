@@ -9,7 +9,7 @@ I noticed that most players could not find the hidden items, leaving them with o
 
 The menu interface has been improved so players have the option of skipping around. Prompts have been updated, level overlay option is added, and prompt history reset option is added.
 
-Lastly, I added 4 more achievements that can be completed by simply entering the tutorial and mazing levels. Other details below.
+Lastly, I added 4 more achievements that can be completed by simply entering the tutorial and each mazing level. Other details below.
 
 Major Bug Fixes
 * Dynamic shadows and the burning enemy particles were causing flashing lights. This is fixed.
@@ -19,6 +19,7 @@ Major Bug Fixes
 Features
 * Option to always show the tower level has been added to the Settings menu. Its default value will be off.
 * Option to clear the prompt history has been added to the Settings menu.
+* Character visual upgrades can be made earlier now. Priced high so players will get them last.
 
 Prompts
 * Prompts have been updated to help new players. Rereading them by clearing the prompt history may be useful for existing players as well.
@@ -26,10 +27,11 @@ Prompts
 * Star threshold scores updated to be more clear.
 
 Level Changes
-* The tutorial waves have been modified so first time players are able to see every enemy type. I am hoping this will pique the interest of new players.
+* The tutorial waves have been modified so first time players are able to see every enemy type. I am hoping this will pique the interest of new and existing players.
 * The cost of unlocking levels has been increased slightly. Mazing levels are no longer free.
 
 Balance Changes
+* Evolved basic tower buffed slightly.
 * Evolved pierce tower damage buffed slightly.
 * Item strike damage buffed slightly.
 * Stun tower bonus damage to bosses nerfed slightly.
