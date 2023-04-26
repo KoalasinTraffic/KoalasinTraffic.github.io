@@ -7,6 +7,8 @@ title: Griffin
 
 The griffin will spawn an egg (green orb) that will heal other enemies in the area. The egg can only be destroyed by being stepped on by the player.
 
+* Green orb heal amount: 4% of max health
+
 * Green orb frequency: 5 seconds
 
 * Health: 80%

@@ -7,7 +7,7 @@ title: Priest
 
 The priest has a speed aura that can be temporarily removed with the fire tower. If not burning, all non-burning enemies in the area will be healed.
 
-* Heal amount: 8%
+* Heal amount: 8% of max health
 
 * Heal frequency: 3 seconds
 
