@@ -12,7 +12,7 @@ Welcome to the press page for Small People Defense. If you need any additional i
 | Genre | Tower Defense / Strategy |
 | Similar To | Orcs Must Die but with more focus on tower placements |
 | Platform | [Steam for Windows](https://store.steampowered.com/app/2239870/Small_People_Defense/){:target="_blank" rel="noopener noreferrer"} |
-| Price | $3.99 |
+| Price | $4.99 |
 | Singleplayer | There won't be multiplayer unless there's enough demand |
 | Trailer | [https://www.youtube.com/watch?v=iubqgNdi7Jg](https://www.youtube.com/watch?v=iubqgNdi7Jg){:target="_blank" rel="noopener noreferrer"}
 | Gameplay | A 3rd-person tower defense where you queue your own difficulty. Rush waves for a challenge or gradually level up your small person for a relaxing experience. |
