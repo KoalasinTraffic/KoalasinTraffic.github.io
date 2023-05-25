@@ -7,7 +7,7 @@ title: Credits
 
 The creation of Small People Defense would not have been possible without all of the amazing creators who provide their work for others to use. A huge thanks to every single one of them!
 
-In summary, music has been selected from [Alexander Nakarada](https://www.serpentsoundstudios.com/) ([CC by 4.0](http://creativecommons.org/licenses/by/4.0/)), UE assets are from the unreal marketplace, and SFX/graphics are from miscellaneous [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) and [CC0](https://creativecommons.org/publicdomain/zero/1.0/) sources.
+In summary, music has been selected from [Alexander Nakarada](https://www.serpentsoundstudios.com/) ([CC by 4.0](http://creativecommons.org/licenses/by/4.0/)) and [Random Mind](https://www.youtube.com/channel/UCvjkkwGL7g092E1oV7IMffw) ([CC0](https://creativecommons.org/publicdomain/zero/1.0/)), UE assets are from the unreal marketplace, and SFX/graphics are from miscellaneous [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) and [CC0](https://creativecommons.org/publicdomain/zero/1.0/) sources.
 
 Below is the comprehensive list all the 3rd party resources used. Assets may have been modified in the making of Small People Defense. Feel free to contact me for more info or request changes to attribution.
 
@@ -63,6 +63,20 @@ Below is the comprehensive list all the 3rd party resources used. Assets may hav
     * 0-2 stars. [Losing Loop](https://soundcloud.com/serpentsoundstudios/losing-loop)
     * 3-4 stars. [Superepic](https://soundcloud.com/serpentsoundstudios/superepic)
     * 5 stars. [Megaepic](https://soundcloud.com/serpentsoundstudios/megaepic)
+
+# Streamer Game Music
+* [Sergio aka Random Mind](https://www.youtube.com/channel/UCvjkkwGL7g092E1oV7IMffw) ([CC0](https://creativecommons.org/publicdomain/zero/1.0/))
+  * Map *A. [Harvest Season](https://youtu.be/wGqJseFSWbA)
+  * Map *B. [Minstrel Dance](https://youtu.be/seA8VXl9mn4)
+  * Map *C. [Exploration](https://youtu.be/XZO331MAAi0)
+  * Map *D. [Market Day](https://youtu.be/Sd20YEhu81Y)
+  * Map *E. [The Bard's Tale](https://youtu.be/-QQ4rsHG8Ow)
+  * Map *F. [King's Feast](https://youtu.be/tqylCjXe-qg)
+  * Map *G. [Rejoicing](https://youtu.be/WqrZlTljy6Q)
+  * Map *H. [The Old Tower Inn](https://youtu.be/zFO3Jyr-mZ4)
+  * Bosses. [Battle](https://youtu.be/VlTyakIApkE)
+  * 0-2 stars. [Defeat Theme](https://youtu.be/5j8corCBDUk)
+  * 3-5 stars. [Victory Theme](https://youtu.be/zHPGc1mqxYs)
 
 # Trailer Music
 * [Makai Symphony](http://makai-symphony.com/) ([CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/))

@@ -10,14 +10,14 @@ Welcome to the press page for Small People Defense. If you need any additional i
 | Early Access Date | April 14, 2023 |
 | Full Release Date | TBD |
 | Genre | Tower Defense / Strategy |
-| Similar To | Orcs Must Die but with more focus on tower placements |
+| Similar To | Orcs Must Die but with focus on tower placements |
 | Platform | [Steam for Windows](https://store.steampowered.com/app/2239870/Small_People_Defense/){:target="_blank" rel="noopener noreferrer"} |
 | Price | $4.99 |
 | Singleplayer | There won't be multiplayer unless there's enough demand |
-| Trailer | [https://www.youtube.com/watch?v=iubqgNdi7Jg](https://www.youtube.com/watch?v=iubqgNdi7Jg){:target="_blank" rel="noopener noreferrer"}
-| Gameplay | A 3rd-person tower defense where you queue your own difficulty. Rush waves for a challenge or gradually level up your small person for a relaxing experience. |
-| Language | English |
-| Music Copyright | In game music used is by [Alexander Nakarada](https://www.serpentsoundstudios.com/){:target="_blank" rel="noopener noreferrer"} ([CC by 4.0](http://creativecommons.org/licenses/by/4.0/){:target="_blank" rel="noopener noreferrer"}). To avoid copyright, please mute the music in the settings menu. |
+| Trailer | [https://youtu.be/iubqgNdi7Jg](https://youtu.be/iubqgNdi7Jg){:target="_blank" rel="noopener noreferrer"}
+| Gameplay | A 3rd-person tower defense where you queue your own difficulty. Utilize projectile-based towers and unique tower interactions to strategically defeat your foes. |
+| Language | Only English unless there's enough demand |
+| Music Copyright | There is a streamer mode that changes all music to only public domain songs. |
 | Developer | Koalas in Traffic (solo developer) |
 
 # Logos and Images
@@ -38,5 +38,5 @@ Welcome to the press page for Small People Defense. If you need any additional i
   </tr>
 </table>
 
-# Selected Existing Press
-\[Early Access\] [ReformistTM](https://www.youtube.com/watch?v=RCqHg7mbXOA){:target="_blank" rel="noopener noreferrer"}
+# Selected Press
+\[Early Access\] [ReformistTM](https://youtu.be/RCqHg7mbXOA){:target="_blank" rel="noopener noreferrer"}
