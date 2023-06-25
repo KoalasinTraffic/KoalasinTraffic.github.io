@@ -169,3 +169,4 @@ Below is the comprehensive list all the 3rd party resources used. Assets may hav
   * [Tank fire Mixed.wav](https://freesound.org/people/GaryQ/sounds/127845/)
   * [Swosh / Whoosh / Air Cut](https://freesound.org/people/qubodup/sounds/60030/)
   * [Basic Melee Swing / Miss / Whoosh](https://freesound.org/people/SypherZent/sounds/420668/)
+  * [Coins Shuffle](https://freesound.org/people/adgawrhbshbffsfgvsrf/sounds/492017/)
