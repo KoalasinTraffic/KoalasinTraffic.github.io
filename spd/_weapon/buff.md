@@ -1,0 +1,36 @@
+---
+layout: spd
+title: Buff
+---
+
+# Courageous Cabbage
+
+The buff weapon doubles the damage of all towers in the area for a moderate period of time. This buff is applied once immediately after activation and heals towers by 1 HP per second. The effect lasts 12 seconds and can stack.
+
+Damage multiplier with 1 buff: x2
+
+Damage multiplier with 7 buffs: x128
+
+<img src="/assets/images/spd/weapon-buff.gif" width="449" height="283">
+
+# Hidden Locations
+
+Cabbages are found in any variation of the Summer maps.
+
+1. Next to spawn.
+
+2. Bottom of map.
+
+3. In bush.
+
+4. Next to lighthouse.
+
+5. Jump on top house and go right.
+
+6. Jump on top house/tree and go left.
+
+6. Jump on left house/tree and go down.
+
+<a href="/assets/images/spd/map-bomb.jpg">
+  <img src="/assets/images/spd/map-bomb.jpg" width="449" height="283">
+</a>

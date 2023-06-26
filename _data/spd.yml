@@ -4,8 +4,8 @@
   url: /spd/news
 - title: Towers
   url: /spd/tower
-- title: Items
-  url: /spd/item
+- title: Weapons
+  url: /spd/weapon
 - title: Enemies
   url: /spd/enemy
 - title: Bosses

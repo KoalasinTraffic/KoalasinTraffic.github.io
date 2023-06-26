@@ -9,7 +9,7 @@ collections:
   tower:
     output: true
     permalink: /spd/:collection/:title/
-  item:
+  weapon:
     output: true
     permalink: /spd/:collection/:title/
   enemy:

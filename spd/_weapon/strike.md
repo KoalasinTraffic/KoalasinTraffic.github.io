@@ -3,9 +3,9 @@ layout: spd
 title: Strike
 ---
 
-# Shocking Pineapple
+# Prickly Pineapple
 
-The strike item deals moderate damage to single targets once activated. Enemies are selected at random and the item will strike 6 times as long as there are targets in the area.
+The strike weapon deals moderate damage to single targets once activated. Enemies are selected at random and the weapon will strike 6 times as long as there are targets in the area.
 
 Damage to serf: 100% of max health per strike
 
@@ -13,7 +13,7 @@ Damage to enemy: 40% of max health per strike (240% total)
 
 Damage to boss: 10% of max health per strike (60% total)
 
-<img src="/assets/images/spd/item-strike.gif" width="449" height="283">
+<img src="/assets/images/spd/weapon-strike.gif" width="449" height="283">
 
 # Hidden Locations
 
