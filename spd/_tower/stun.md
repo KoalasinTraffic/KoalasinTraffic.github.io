@@ -5,7 +5,7 @@ title: Stun
 
 # Stun Tower
 
-The best stunning tower in the game.
+A tower that only stuns under the right conditions.
 
 * Single damage: A lightning strike immediately deals damage to its target.
 

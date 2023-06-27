@@ -5,9 +5,9 @@ title: Blaze
 
 # Magical Muffin
 
-Every 5th wave, one enemy will possess a muffin that is dropped once defeated. The player must jump on top of the muffin to collect this charge. The player also starts with one charge at the start of every level.
-
 The blaze weapon deals moderate damage in front of the player once activated. This attack strikes 5 times and can hit the same enemy twice with precise timing and a bit of luck.
+
+Every 5th wave, one enemy will possess a muffin that is dropped once defeated. The player must jump on top of the muffin to collect this charge. The player also starts with one charge at the start of every level.
 
 Damage to serf: 100% of max health
 

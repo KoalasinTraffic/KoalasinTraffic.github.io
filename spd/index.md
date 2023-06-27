@@ -11,17 +11,17 @@ Official website for [Small People Defense](https://store.steampowered.com/app/2
 
 # Features
 
-* 25 levels each 3 to 15 minutes long
-* Endless mode, mazing levels, and leaderboards
-* 6 towers with upgrades
-* 4 unlockable items found within each biome
+* 28 levels each 3 to 15 minutes long
+* 6 towers with upgrade variations
+* 5 different weapons
 * Permanent power ups and easy level progression
+* Endless mode, mazing levels, and leaderboards
 * 6 challenging bosses
 * Over 10 unique enemy types
 
 # Official Wiki
 
-This website will have documentation on stats of towers, items, enemies, and bosses. Not all information is provided in game to minimize information overload for causal players. But if you're looking to optimize your strategies, check out what's available in the navigation bar.
+This website will have documentation on stats of towers, weapons, enemies, and bosses. Not all information is provided in game to minimize information overload for causal players. But if you're looking to optimize your strategies, check out what's available in the navigation bar.
 
 # Play Early Access Now!
 
