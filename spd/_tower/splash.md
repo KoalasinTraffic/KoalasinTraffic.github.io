@@ -13,9 +13,10 @@ The best area of effect (AoE) tower in the game.
 
 * AI: Targets the closest enemy and focuses until out of range.
 
-* No status effects.
+* Bouncing effect: If a cannonball hits a target, it can bounce a number of times equal to its level to a maximum of 8.
+  * Each bounce deals 75% damage of the previous cannonball and has a 25% splash radius reduction.
 
-After evolving, the splash tower will have a second cannonball that bounces upon impact. The second cannonball does 25% of the original ball's damage.
+At level 8, each cannonball bounce will no longer reduce in size increasing the chance of bouncing more!
 
 # Base Stats Before Power Up
 

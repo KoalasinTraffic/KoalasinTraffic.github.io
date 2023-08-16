@@ -5,11 +5,11 @@ title: Towers
 
 # Towers
 
-Small People Defense has 6 available towers. Towers will evolve and improve their unique abilities when upgraded to level 8. Although there are no plans to increase the number of towers to maintain simplicity in building, status effect interactions and enemy mechanics are designed to add depth to this game's strategy.
+Small People Defense maintains simplicity in building by having 6 towers, each with unique abilities when upgraded. Tower interactions and different enemy mechanics are designed to add a lot of depth to this game's strategy.
 
-Each upgrade will cost twice the previous upgrade. Level increases will grant damage relative to its cost and 20% more maximum health. Additionally, the tower's attack speed and rotation rate (excluding [beam](/spd/tower/beam)) are increased with each level to incentivize upgrading.
+Each upgrade costs twice the previous upgrade. Level increases grant damage relative to its cost and 20% more maximum health. Additionally, the tower's attack speed and rotation rate (excluding [beam](/spd/tower/beam)) are increased with each level to incentivize upgrading.
 
-Selling a tower will only return 80% of its original value including its upgrades. If a tower is destroyed by the [Kraken](/spd/boss/kraken) or [Zombie](/spd/enemy/zombie), it is automatically sold.
+Selling a tower only returns 80% of its original value including its upgrades. If a tower is destroyed by the [Kraken](/spd/boss/kraken) or [Zombie](/spd/enemy/zombie), it is automatically sold.
 
 # Tower List
 

@@ -13,9 +13,13 @@ The best damage over time (DoT) tower in the game.
 
 * AI: Targets enemies that are not burning first.
 
-* Burn effect: Struck enemies will take additional burning damage over time for 2 seconds. If burned by towers of different strengths, the largest burn damage will be used for DoT and its duration will be refreshed.
+* Burn effect: Hit enemies takes additional burning DoT. If burned by towers of different strengths, the largest burn damage will be used for DoT and its duration will be refreshed for its maximum amount.
+  * At level 1, burn time is 2 seconds.
+  * At level 4, burn time is 3 seconds.
+  * At level 7, burn time is 4 seconds.
+  * At level 8, burn time is 5 seconds.
 
-After evolving, the fire tower DoT will last 4 seconds.
+At all levels, the burn effect can spread when the target dies only if there's a close enemy nearby and if there's still remaining burn time on the dying target.
 
 # Base Stats Before Power Up
 

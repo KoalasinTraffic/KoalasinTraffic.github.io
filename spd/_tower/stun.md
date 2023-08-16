@@ -10,6 +10,7 @@ A tower that only stuns under the right conditions.
 * Single damage: A lightning strike immediately deals damage to its target.
 
 * No projectile: Lightning strikes instantly and does not miss.
+  * If this tower does the killing blow, a trap will be spawned which will strike the next enemy for a second time, potentially stunning the target.
 
 * AI: Targets slowed and burning enemies first.
 
@@ -17,7 +18,7 @@ A tower that only stuns under the right conditions.
   * Regular bonus: x2 damage, 1 second stun, but -1 second to burning time and -1 second to slow time.
   * Boss bonus: x3 damage, no stun, and no reduction to other statuses.
 
-After evolving, the stun tower will have a second chain lightning after each attack. The chain lightning does 25% of the original's damage.
+At level 8, the stun tower will have a second chain lightning after each attack. The chain lightning does 25% of the original's damage.
 
 # Base Stats Before Power Up
 

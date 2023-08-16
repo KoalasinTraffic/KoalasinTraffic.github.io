@@ -18,7 +18,7 @@ The best slowing tower in the game.
   * Additional slow per level: 5%
   * Slow at max level: 75%
 
-After evolving, the slow tower will deal area of effect (AoE) slow and damage on impact. Damage is spread evenly among the number of enemies hit.
+At level 8, the slow tower will deal area of effect (AoE) slow and damage on impact. Damage is spread evenly among the number of enemies hit.
 
 # Base Stats Before Power Up
 
