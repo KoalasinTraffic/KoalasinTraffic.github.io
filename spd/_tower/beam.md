@@ -5,7 +5,7 @@ title: Beam
 
 # Beam Tower
 
-This tower creates a beam between itself and the nearest beam tower. If no tether can be made, its cost will be refunded. With every level up, the beam tower will redo its tethering.
+This tower creates a beam between itself and the nearest beam tower. With every level up, the beam tower will redo its tethering.
 
 * Single damage: Damage is dealt when an enemy crosses the beam.
 
