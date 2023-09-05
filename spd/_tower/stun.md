@@ -16,7 +16,7 @@ A tower that only stuns under the right conditions.
 
 * Stun effect: Struck enemies will be stunned if and only if the enemy is already slowed and burning. If these conditions are met, bonus damage will be dealt and invulnerability can be removed.
   * Regular bonus: x2 damage, 1 second stun, but -1 second to burning time and -1 second to slow time.
-  * Boss bonus: x3 damage, no stun, and no reduction to other statuses.
+  * Boss bonus: x2 damage, no stun, and no reduction to other statuses.
 
 At level 8, the stun tower will have a second chain lightning after each attack. The chain lightning does 25% of the original's damage.
 
