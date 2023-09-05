@@ -1,0 +1,22 @@
+---
+layout: spd
+title: Update v0.7 Hotfix
+---
+
+# Rush Change and Wall Tower
+
+Thanks to RAMBO's feedback, I realized that an additional incentive to rushing waves was needed. Also, mazing levels were not well-designed for endless so I've added an indestructible wall tower that allows you to fix your maze with the drawback of consuming cash and building space. I think these two changes really improve certain drawbacks of the game, so I'm releasing it now instead of during the next major update.
+
+New wall tower for mazing
+* At the cost of $3, a no-damage wall tower can be built that cannot be moved or destroyed by enemies but still blocks enemy movement.
+* This tower sells for $0 to make looping slightly less overpowered.
+* Only available for mazing levels.
+
+Rushing
+* When I first made the game, the incentive of rushing was to get enough points for 5 stars. But this aspect is actually detrimental in endless mode.
+* You will now get up to 200% more cash when rushing. This bonus cash is scaled depending on how much of the full 24 seconds is rushed. This means cash from waves will now range from x1 to x3.
+* Now you actually get MORE cash if you rushed the full 24 seconds than if you just waited for the waves to spawn.
+
+Miscellaneous changes
+* Max weapon count has been fixed to be 8 instead of 7.
+* Bonus points UI now shows bonus cash as well.
