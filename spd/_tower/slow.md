@@ -15,7 +15,7 @@ The best slowing tower in the game.
 
 * Slow effect: Struck enemies will have their movement speed slowed. If slowed by towers of different strengths, the stronger slow will persist and its duration will be refreshed.
   * Base slow: 10%
-  * Additional slow per level: 5%
+  * Additional slow per level: 4%
   * Maximum slow amount: 80%
 
 At level 8, the slow tower will deal area of effect (AoE) slow and damage on impact. Damage is spread evenly among the number of enemies hit.
