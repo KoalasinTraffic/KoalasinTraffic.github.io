@@ -17,7 +17,7 @@ This tower creates a beam between itself and the nearest beam tower. With every 
 
 * Piercing effect: Enemies that are invulnerable can be damaged by piercing.
 
-At level 8, beams will deal 1/6 of the tower's damage per second to all enemies that stay within the beam.
+At level 8, beams will deal 1/10 of the tower's damage per second to all enemies that stay within the beam.
 
 # Base Stats Before Power Up
 
