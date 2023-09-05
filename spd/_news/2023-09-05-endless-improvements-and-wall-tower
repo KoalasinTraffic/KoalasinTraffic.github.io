@@ -3,7 +3,7 @@ layout: spd
 title: Update v0.7 Hotfix
 ---
 
-# Rush Change and Wall Tower
+# Endless Improvements and Wall Tower
 
 Thanks to RAMBO's feedback, I realized that an additional incentive to rushing waves was needed. Also, mazing levels were not well-designed for endless so I've added an indestructible wall tower that allows you to fix your maze with the drawback of consuming cash and building space. I think these two changes really improve certain drawbacks of the game, so I'm releasing it now instead of during the next major update.
 
@@ -18,5 +18,8 @@ Rushing
 * Now you actually get MORE cash if you rushed the full 24 seconds than if you just waited for the waves to spawn.
 
 Miscellaneous changes
+* Max tower level is now 20. Max upgraded beam tower can now reach 4 million damage. With 8 buffs, it can deal a little over 1 billion damage...
+* Beam damage per second has been reduced from 1/6 to 1/10.
+* Due to maximum tower level update, slow tower now has a limit of 80% on its slow.
 * Max weapon count has been fixed to be 8 instead of 7.
 * Bonus points UI now shows bonus cash as well.
