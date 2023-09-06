@@ -5,7 +5,9 @@ title: Update v0.7 Hotfix
 
 # Endless Improvements and Wall Tower
 
-Thanks to RAMBO's feedback, I realized that an additional incentive to rushing waves was needed. Also, mazing levels were not well-designed for endless so I've added an indestructible wall tower that allows you to fix your maze with the drawback of consuming cash and building space. I think these two changes really improve certain drawbacks of the game, so I'm releasing it now instead of during the next major update.
+Thanks to RAMBO's feedback, I realized that an additional incentive to rushing waves was needed. Also, mazing levels were not well-designed for endless so I've added an indestructible wall tower that allows you to fix your maze with the drawback of consuming cash and building space.
+
+I think these two changes really improve certain drawbacks of the game, so I'm releasing it now instead of during the next major update.
 
 New wall tower for mazing
 * At the cost of $3, a zero-damage wall tower can be built that cannot be moved or destroyed by enemies but still blocks enemy movement.
