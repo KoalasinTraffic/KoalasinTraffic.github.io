@@ -10,6 +10,10 @@
   url: /spd/enemy
 - title: Bosses
   url: /spd/boss
+- title: Scoring
+  url: /spd/scoring
+- title: Money
+  url: /spd/money
 - title: Credits
   url: /spd/credits
 - title: Press

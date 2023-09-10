@@ -9,19 +9,7 @@ There are many different enemies to defend against in Small People Defense. Enem
 
 # Serfs
 
-Serfs are spawned every 3 seconds and serve as a source of passive income. They are intended to be weak until the late game. Rushing does not influence the spawn rate of serfs, so faster waves will both starve player income and increase relative difficulty.
-
-In endless mode, serfs are promoted to super serfs after wave 100. This is only a visual aspect to the game.
-
-# Score
-
-Enemies will increase score (along with persistent points) after being defeated. Score per enemy/boss is calculated using Difficulty multiplied by the sum of Base Score and Base Rush Bonus. Difficulty increases by a small percentage each wave.
-
-* Score per serf: 1 point
-
-* Base Score per enemy/boss: 10 points
-
-* Base Rush Bonus per enemy/boss: 2 points per second rushed (to a maximum of 48 points)
+Serfs are spawned every 3 seconds. Rushing does not influence the spawn rate of serfs. In endless mode, serfs are promoted to super serfs after wave 100. This is only a visual aspect to the game.
 
 [//]: # (Stats can be found within HUDLevel.cpp)
 
