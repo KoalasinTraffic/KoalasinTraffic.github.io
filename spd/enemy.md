@@ -11,7 +11,7 @@ There are many different enemies to defend against in Small People Defense. Enem
 
 Serfs are spawned every 3 seconds and serve as a source of passive income. They are intended to be weak until the late game. Rushing does not influence the spawn rate of serfs, so faster waves will both starve player income and increase relative difficulty.
 
-In endless mode, serfs are promoted to super serfs after wave 45. This is only a visual aspect to the game, but represents the point where your previously passive source of income becomes even more threatening than the main waves.
+In endless mode, serfs are promoted to super serfs after wave 100. This is only a visual aspect to the game.
 
 # Score
 
