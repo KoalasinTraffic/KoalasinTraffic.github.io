@@ -5,7 +5,7 @@ title: Update v0.8 Truly Endless
 
 # Truly Endless
 
-The last hotfix I made introduced bugs, but they should be fixed now. The new wall tower should allow you to fix your maze despite the bosses' abilities. And finally, endless mode is now almost truly endless!
+The last hotfix I made introduced bugs, so I'm releasing a new update with these fixes. The new wall tower should allow you to fix your maze despite the bosses' abilities. And finally, endless mode is now almost truly endless!
 
 For endless, your computer may experience performance issues due to having too many enemies in the game... Don't forget to use items as they deal percent damage. Also, I added a beta global leaderboard system, several bug fixes, and balanced some of the towers.
 
@@ -25,7 +25,7 @@ Tower updates
 * Wall tower sell value has been changed so it gives the full refund.
 * Beam tower can no longer be displaced or swapped to prevent making the tower useless. Beam visuals have been reduced for better visibility.
 * Slow tower has been significantly nerfed. Slow starts at 6% and maxes at level 8 with a 48% movement reduction.
-* Stun tower bonus damage to bosses is now x3 again. Bosses are just really annoying to deal with...
+* Stun tower bonus damage to bosses is now x3 again. Bosses are just really hard...
 
 Buff weapon
 * Changed to heal for 10% of the tower's max health instead of just 1 HP. This allows you to heal any tower to full with a single buff (12 second duration).
