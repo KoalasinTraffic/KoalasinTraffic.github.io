@@ -728,4 +728,3 @@ Below is an example from Summer 1A as to the difference of the potential score y
 | 707  | 662688960              | 1.99E+09                   |
 | 708  | 675942720              | 2.03E+09                   |
 | 709  | 689461568              | 2.07E+09                   |
-| 710  | 703250816              | 2.11E+09                   |
