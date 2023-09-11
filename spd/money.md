@@ -724,5 +724,3 @@ Below is an example from Summer 1A on how much money you can make from a single 
 | 707  | $6.96898E+043              | $1.31017E+044           |
 | 708  | $5.57519E+043              | $8.9203E+043            |
 | 709  | $4.18139E+043              | $4.73891E+043           |
-| 710  | $5.57519E+043              | $8.9203E+043            |
-
