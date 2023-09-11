@@ -21,7 +21,7 @@ Mazing
 * Fixed bug where the Final Boss could swap the new wall tower.
 
 Tower updates
-* Max tower level has been increased to 100.
+* Max tower level has been increased to 100. This max level is the bottleneck for endless.
 * Wall tower sell value has been changed so it gives the full refund.
 * Beam tower can no longer be displaced or swapped to prevent making the tower useless. Beam visuals have been reduced for better visibility.
 * Slow tower has been significantly nerfed. Slow starts at 6% and maxes at level 8 with a 48% movement reduction.
