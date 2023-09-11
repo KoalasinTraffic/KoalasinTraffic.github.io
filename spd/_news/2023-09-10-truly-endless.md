@@ -9,9 +9,9 @@ The last hotfix I made introduced bugs, so I'm releasing a new update with these
 
 For endless, your computer may experience performance issues due to having too many enemies in the game... Don't forget to use items as they deal percent damage. Also, I added a beta global leaderboard system, several bug fixes, and balanced some of the towers.
 
-Wave generation
+Endless wave generation
+* Endless waves technically stop once the potential score you can get reaches 2 billion, so not truly endless but it's very hard to reach that point.
 * Health and damage datatypes have been changed to handle values up to 1e300.
-* Endless waves technically stop once the potential score you can get reaches 2 billion, but I highly doubt anyone can reach it.
 * Serfs are now significantly easier at high levels. Before, their health increased faster than the main waves. Now, it's been changed to be calculated based on the main wave's health.
 * Points you can make: [https://koalasintraffic.github.io/spd/scoring](https://koalasintraffic.github.io/spd/scoring)
 * Money you can make: [https://koalasintraffic.github.io/spd/money](https://koalasintraffic.github.io/spd/money)
