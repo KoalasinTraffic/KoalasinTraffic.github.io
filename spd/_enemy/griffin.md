@@ -9,7 +9,7 @@ The griffin will spawn an egg (green orb) that will heal other enemies in the ar
 
 * Green orb heal amount: 4% of max health
 
-* Green orb frequency: 5 seconds
+* Green orb frequency: 9 seconds
 
 * Health: 80%
 
