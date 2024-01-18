@@ -14,11 +14,11 @@ The best slowing tower in the game.
 * AI: Targets burning enemies and focuses until out of range.
 
 * Slow effect: Struck enemies will have their movement speed slowed. If slowed by towers of different strengths, the stronger slow will persist and its duration will be refreshed.
-  * Base slow: 10%
-  * Additional slow per level: 10%
-  * Maximum slow amount: 70%
+  * Base slow: 15%
+  * Additional slow per level: 5%
+  * Maximum slow amount: 50%
 
-At level 8, the slow tower will deal area of effect (AoE) slow and damage on impact. Damage is spread evenly among the number of enemies hit.
+Starting at level 10, the slow tower will deal area of effect (AoE) slow and damage on impact. Damage is spread evenly among the number of enemies hit. Every 10 additional levels will increase the splash radius until a maximum radius at level 70.
 
 # Base Stats Before Power Up
 
