@@ -9,7 +9,7 @@ The ghoul will throw a devastating hook shot that will knock you back if you are
 
 * Punch frequency: 2.5 seconds
 
-* Health: 110%
+* Health: 100%
 
 * Movement speed: 91%
 
