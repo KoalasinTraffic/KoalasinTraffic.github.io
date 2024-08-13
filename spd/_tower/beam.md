@@ -10,14 +10,16 @@ This tower creates a beam between itself and the nearest beam tower. With every 
 * Single damage: Damage is dealt when an enemy crosses the beam.
 
 * No projectile: Beams remain as long as original tower does not die.
-  * The number of beams depend on the tower's level, with a maximum of 8 beams.
-  * Past level 8, upgrading this tower will still redo its tethering.
+  * At level 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 200, 300, 400, 500, 600 and 601, an additional beam tether will be made.
+  * Starting at level 100, beams will deal 10% damage to all enemies that stay within the beam every second.
 
 * AI: None
 
 * Piercing effect: Enemies that are invulnerable can be damaged by piercing.
 
-At level 8, beams will deal 1/10 of the tower's damage per second to all enemies that stay within the beam.
+The beam and wall towers are the only ones that can't be moved by bosses.
+
+At level 601, the beam tower will become invulnerable and stun enemies on overlap.
 
 # Base Stats Before Power Up
 
