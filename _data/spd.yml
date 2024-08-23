@@ -6,6 +6,8 @@
   url: /spd/tower
 - title: Weapons
   url: /spd/weapon
+- title: Characters
+  url: /spd/character
 - title: Enemies
   url: /spd/enemy
 - title: Bosses

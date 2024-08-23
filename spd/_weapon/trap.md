@@ -7,11 +7,11 @@ title: Trap
 
 The trap weapon plants an donut on the ground. Once triggered, it will stun the enemy for 6 seconds and deal low damage in an area of effect. This damage is sustained to all enemies who remain in the area. The poison cloud also lasts for 6 seconds.
 
-Damage to serf: 20% of max health per second
+Damage to serf: 40% of max health per second
 
-Damage to enemy: 5% of max health per second (30% total)
+Damage to enemy: 10% of max health per second (60% total)
 
-Damage to boss: 1.25% of max health per second (7.5% total)
+Damage to boss: 2.5% of max health per second (15% total)
 
 <img src="/assets/images/spd/weapon-trap.gif" width="449" height="283">
 

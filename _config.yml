@@ -12,6 +12,9 @@ collections:
   weapon:
     output: true
     permalink: /spd/:collection/:title/
+  character:
+    output: true
+    permalink: /spd/:collection/:title/
   enemy:
     output: true
     permalink: /spd/:collection/:title/

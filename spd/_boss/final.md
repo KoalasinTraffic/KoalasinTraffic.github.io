@@ -5,13 +5,13 @@ title: Final Boss
 
 # Final Boss
 
-The final boss is an enigma spawned by the sacrifice of all the enemy small people. Its stats are intentionally unbalanced, and items do 5 times less damage than they do normally.
+The final boss is an enigma spawned by the sacrifice of all the enemy small people. Its stats are intentionally unbalanced, and items deal half the damage compared to other bosses.
 
 * Health: 400%
 
 * Movement speed: 50%
 
-* Damage to player base: 100 HP (instant death)
+* Damage to player base: 10 HP
 
 # Multiple Stages
 
@@ -22,10 +22,11 @@ There are 4 stages of this boss that are repeated every minute. Every time a sta
 * If not destroyed by the player, each orb will deal 2 HP of AOE damage to towers in a random nearby location every 3 seconds.
 
 2. Ice stage
-* The final boss will freeze the player for 6 seconds.
+* The final boss will freeze the player for 5.5 seconds.
 
 3. Swap stage
-* The final boss will swap two random towers 12 times every second.
+* The final boss will swap two random towers each second for a total of 12 times.
 
 4. Drain stage
 * The final boss will take 10% of the player's current money 6 times every second.
+* Once the boss has been defeated, the player will be given back any money that has been drained.

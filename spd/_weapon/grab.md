@@ -5,7 +5,7 @@ title: Grab
 
 # Webby Watermelon
 
-The grab weapon allows the player to hold onto a single, non-boss enemy. There is no limit on how long you can hold an enemy, but other actions such as building and upgrading are disabled until the enemy is released or defeated.
+The grab weapon allows the player to hold onto a group of non-boss enemies. There is no limit on how long you can hold an enemy, but other actions such as building and upgrading are disabled until the enemy is released or defeated.
 
 It is possible to drop enemies off the map and kill them instantly!
 

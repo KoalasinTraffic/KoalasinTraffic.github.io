@@ -11,19 +11,18 @@ Official website for [Small People Defense](https://store.steampowered.com/app/2
 
 # Features
 
-* 28 levels each 3 to 15 minutes long
-* 6 towers with upgrade variations
-* 5 different weapons
-* Permanent power ups and easy level progression
-* Endless mode, mazing levels, sandbox mode, and leaderboards
-* 6 challenging bosses
-* Over 10 unique enemy types
+* 30+ endless levels with tutorials
+* Mazing levels, sandbox mode, and leaderboards
+* 5 different characters
+* 5 unique weapons
+* 6 towers with permanent power ups
+* 20+ enemy types including 6 challenging bosses
 
 # Official Wiki
 
 This website will have documentation on stats of towers, weapons, enemies, and bosses. Not all information is provided in game to minimize information overload for causal players. But if you're looking to optimize your strategies, check out what's available in the navigation bar.
 
-# Play Early Access Now!
+# Play Now!
 
 Steam: [https://store.steampowered.com/app/2239870/](https://store.steampowered.com/app/2239870/){:target="_blank" rel="noopener noreferrer"}
 

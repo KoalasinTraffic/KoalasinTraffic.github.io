@@ -1,6 +1,6 @@
 ---
 layout: spd
-title: Person
+title: Large
 ---
 
 # Large Person Boss
@@ -11,4 +11,4 @@ In a last ditch effort, the small people sacrifice themselves to create a large 
 
 * Movement speed: 67%
 
-* Damage to player base: 10 HP
+* Damage to player base: 5 HP

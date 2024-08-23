@@ -12,5 +12,3 @@ The spirit will attack the nearest tower within range, disabling one of your tow
 * Movement speed: 83%
 
 * Damage to player base: 2 HP
-
-<img src="/assets/images/spd/enemy-spirit.gif" width="449" height="283">

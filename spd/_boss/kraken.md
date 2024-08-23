@@ -15,6 +15,6 @@ The kraken periodically strikes nearby towers with its tentacles and can [destro
 
 * Movement speed: 71%
 
-* Damage to player base: 20 HP
+* Damage to player base: 10 HP
 
 <img src="/assets/images/spd/enemy-kraken.gif" width="449" height="283">

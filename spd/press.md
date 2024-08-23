@@ -16,7 +16,7 @@ Welcome to the press page for Small People Defense. If you need any additional i
 | Singleplayer | There won't be multiplayer |
 | Trailer | [https://youtu.be/iubqgNdi7Jg](https://youtu.be/iubqgNdi7Jg){:target="_blank" rel="noopener noreferrer"}
 | Gameplay | A 3rd-person tower defense where you queue your own difficulty. Utilize projectile-based towers and unique tower interactions to strategically defeat your foes. |
-| Language | Only English unless there's enough demand |
+| Language | English only |
 | Music Copyright | There is a streamer mode that changes all music to only public domain songs. |
 | Developer | Koalas in Traffic (solo developer) |
 

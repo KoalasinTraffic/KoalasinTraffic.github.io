@@ -9,7 +9,7 @@ There are many different enemies to defend against in Small People Defense. Enem
 
 # Serfs
 
-Serfs are spawned every 3 seconds. Rushing does not influence the spawn rate of serfs. In endless mode, serfs are promoted to super serfs after wave 100. This is only a visual aspect to the game.
+Serfs are spawned every 3 seconds. Rushing does not influence the spawn rate of serfs. Starting from wave 100, serfs are promoted to super serfs and have 10% more health.
 
 [//]: # (Stats can be found within HUDLevel.cpp)
 
