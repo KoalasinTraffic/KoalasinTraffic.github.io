@@ -11,4 +11,4 @@ Regular movement = 400
 
 Sprinter movement = 800
 
-<img src="/assets/images/spd/character-sprinter.jpg" width="449" height="283">
+<img src="/assets/images/spd/character-sprinter.jpg" width="400" height="400">
