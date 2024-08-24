@@ -13,4 +13,4 @@ Regular tower health = 100%
 
 Architect tower health = 200%
 
-<img src="/assets/images/spd/character-architect.jpg" width="449" height="283">
+<img src="/assets/images/spd/character-architect.jpg" width="400" height="400">
