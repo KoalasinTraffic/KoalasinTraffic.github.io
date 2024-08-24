@@ -15,4 +15,4 @@ The corpse is abnormally strong, but inflicts harm to itself. Letting this enemy
 
 * Damage to player base: 2 HP
 
-<img src="/assets/images/spd/enemy-corpse.gif" width="449" height="283">
+<img src="/assets/images/spd/enemy-dying.gif" width="449" height="283">
