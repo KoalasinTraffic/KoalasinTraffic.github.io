@@ -13,4 +13,4 @@ Regular serfs = Spawned at a regular interval of every 3 seconds
 
 Agent serfs = One more serf is spawned at the beginning of each wave
 
-<img src="/assets/images/spd/character-agent.jpg" width="449" height="283">
+<img src="/assets/images/spd/character-agent.jpg" width="400" height="400">
