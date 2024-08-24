@@ -11,4 +11,4 @@ Regular sell amount = 80%
 
 Merchant sell amount = 90%
 
-<img src="/assets/images/spd/character-merchant.jpg" width="449" height="283">
+<img src="/assets/images/spd/character-merchant.jpg" width="400" height="400">
