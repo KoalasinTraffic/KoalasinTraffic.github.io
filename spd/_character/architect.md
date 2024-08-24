@@ -7,7 +7,7 @@ title: Architect
 
 The architect builds towers at a much higher health. This durability is effective against enemies that deal damage.
 
-Also, displacement effects are nullified. This means your towers can't be pushed by the [Dragon](/spd/boss/dragon) and the [Final Boss](/spd/boss/final)!
+Also, displacement effects are nullified. This means your towers can't be pushed by the [Dragon](/spd/boss/dragon) and the [Final Boss](/spd/boss/final). Tower swaps from the [Final Boss](/spd/boss/final) will still occur.
 
 Regular tower health = 100%
 
