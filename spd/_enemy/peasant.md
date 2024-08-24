@@ -12,3 +12,5 @@ The peasant is the most basic enemy in the game. All other enemies' stats are ba
 * Movement speed: 100%
 
 * Damage to player base: 2 HP
+
+<img src="/assets/images/spd/enemy-basic.gif" width="449" height="283">
