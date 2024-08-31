@@ -5,11 +5,13 @@ title: Buff
 
 # Courageous Cabbage
 
-The buff weapon doubles the damage of all towers in the area for a moderate period of time. This buff also heals towers by 10% of their max health per second. The doubling effect lasts 12 seconds and stacks.
+The buff weapon doubles the damage of all towers in the area for 12 seconds. This doubling effect stacks. Also, the buff heals 10% of all towers each second and makes them temporarily resistant to being moved.
 
-Damage multiplier with 1 buff: x2
+Damage multiplier with 1 buff: x 2
 
-Damage multiplier with 8 buffs: x256
+Damage multiplier with 8 buffs: x 256
+
+Damage multiplier with 30 buffs: x 1,073,741,824
 
 <img src="/assets/images/spd/weapon-buff.gif" width="449" height="283">
 
