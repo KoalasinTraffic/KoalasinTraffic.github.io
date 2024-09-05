@@ -14,7 +14,7 @@ Official website for [Small People Defense](https://store.steampowered.com/app/2
 * 30+ endless levels with tutorials
 * Mazing levels, sandbox mode, and leaderboards
 * 5 different characters
-* 5 unique weapons
+* 6 unique weapons
 * 6 towers with permanent power ups
 * 20+ enemy types including 6 challenging bosses
 
