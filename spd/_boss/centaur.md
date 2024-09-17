@@ -11,7 +11,7 @@ The centaur leads an army to destroy your base. Periodically, the centaur stops 
 
 * Spawn frequency: 11 seconds
 
-* Health: 170%
+* Health: 150%
 
 * Movement speed: 77%
 

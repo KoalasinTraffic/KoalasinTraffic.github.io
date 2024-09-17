@@ -7,7 +7,7 @@ title: Final Boss
 
 The final boss is an enigma spawned by the sacrifice of all the enemy small people. Its stats are intentionally unbalanced, and items deal half the damage compared to other bosses.
 
-* Health: 400%
+* Health: 220%
 
 * Movement speed: 50%
 

@@ -9,9 +9,9 @@ The wizard creates a clone of itself by sacrificing serfs. Only the original wiz
 
 Letting the wizard create clones can give you serf money quicker, but their copies can get out of hand!
 
-* Health: 50%
+* Health: 40%
 
-* Movement speed: 100%
+* Movement speed: 91%
 
 * Damage to player base: 2 HP
 

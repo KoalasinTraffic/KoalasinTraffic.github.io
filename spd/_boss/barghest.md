@@ -11,9 +11,9 @@ The barghest feasts upon its allies, growing its size and gaining their health. 
 
 * Feast duration: 2 seconds
 
-* Health: 110%
+* Health: 100%
 
-* Movement speed: 143%
+* Movement speed: 111%
 
 * Damage to player base: 10 HP
 

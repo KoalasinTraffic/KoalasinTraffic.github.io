@@ -11,7 +11,7 @@ The dragon soars to the skies and becomes invulnerable periodically. Upon landin
 
 * Flying frequency: 14 seconds
 
-* Health: 140%
+* Health: 120%
 
 * Movement speed: 100%
 

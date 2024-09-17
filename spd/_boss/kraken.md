@@ -11,7 +11,7 @@ The kraken periodically strikes nearby towers with its tentacles and can [destro
 
 * Attack frequency: 9 seconds
 
-* Health: 180%
+* Health: 160%
 
 * Movement speed: 71%
 

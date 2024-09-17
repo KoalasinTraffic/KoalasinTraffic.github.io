@@ -7,9 +7,9 @@ title: Noble
 
 Nobles are the strongest regular enemy health-wise but have significantly reduced speed. It has no other effects.
 
-* Health: 190%
+* Health: 160%
 
-* Movement speed: 50%
+* Movement speed: 63%
 
 * Damage to player base: 2 HP
 

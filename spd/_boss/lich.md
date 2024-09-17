@@ -9,9 +9,9 @@ The lich carries a legendary amulet that protects it from damage. Only a tower w
 
 * Element change frequency: 6 seconds
 
-* Health: 60%
+* Health: 22%
 
-* Movement speed: 91%
+* Movement speed: 83%
 
 * Damage to player base: 10 HP
 

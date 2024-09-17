@@ -9,9 +9,9 @@ The corpse is abnormally strong, but inflicts harm to itself. Letting this enemy
 
 * Health loss per second: 3% (cannot go under 60% for sandbox map)
 
-* Health: 300%
+* Health: 250%
 
-* Movement speed: 100%
+* Movement speed: 125%
 
 * Damage to player base: 2 HP
 
