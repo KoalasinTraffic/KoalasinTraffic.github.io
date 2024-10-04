@@ -10,7 +10,7 @@ This tower creates a beam between itself and the nearest beam tower. With every 
 * Single damage: Damage is dealt when an enemy crosses the beam.
 
 * No projectile: Beams remain as long as original tower does not die.
-  * At level 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 200, 300, 400, 500, 600 and 601, an additional beam tether will be made.
+  * At level 10, 20, 30, 40 and 50, an additional beam tether will be made.
   * Starting at level 100, beams will deal 10% damage to all enemies that stay within the beam every second.
 
 * AI: None
