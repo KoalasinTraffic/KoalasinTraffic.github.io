@@ -27,9 +27,9 @@ At level 601, the slow tower will become invulnerable, have significantly increa
 
 # Base Stats Before Power Up
 
-* Cost: $8
+* Cost: $7
 
-* Health: 5 HP
+* Health: 4 HP
 
 * Range: 55 decimeters
 
