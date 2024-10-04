@@ -27,9 +27,9 @@ At level 601, the beam tower will become invulnerable, have infinite burn time, 
 
 # Base Stats Before Power Up
 
-* Cost: $14
+* Cost: $13
 
-* Health: 9 HP
+* Health: 8 HP
 
 * Range: 45 decimeters
 
