@@ -23,9 +23,9 @@ At level 601, the beam tower will become invulnerable and stun enemies on overla
 
 # Base Stats Before Power Up
 
-* Cost: $13
+* Cost: $15
 
-* Health: 8 HP
+* Health: 9 HP
 
 * Range: Infinite
 
