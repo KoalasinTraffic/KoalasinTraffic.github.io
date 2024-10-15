@@ -5,7 +5,7 @@ title: Towers
 
 # Towers
 
-Small People Defense only has 6 towers but each has their own unique abilities when upgraded. Tower interactions and enemy mechanics add depth to the game's strategy.
+Small People Defense has 6 unique towers and each with additional abilities when upgraded. The depth in strategy comes with tower interactions and enemy mechanics.
 
 Each upgrade costs twice the previous upgrade. Level increases grant damage relative to its cost and grant 50% more health (capped at 30 per level). Additionally, the tower's attack speed and rotation rate (excluding [Beam](/spd/tower/beam)) are increased with each level to incentivize upgrading.
 

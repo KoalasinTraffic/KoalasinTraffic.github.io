@@ -8,19 +8,22 @@ title: Press
 Welcome to the press page for Small People Defense. If you need any additional info or would like anything provided in a different format, please [contact me](/spd/contact).
 
 | Early Access Date | April 14, 2023 |
-| Full Release Date | TBD |
+| Full Release Date | November 2024 |
 | Genre | Tower Defense / Strategy |
-| Similar To | Orcs Must Die but with focus on tower placements |
+| Similar To | Element TD and Orcs Must Die |
 | Platform | [Steam for Windows](https://store.steampowered.com/app/2239870/Small_People_Defense/){:target="_blank" rel="noopener noreferrer"} |
 | Price | $4.99 |
 | Singleplayer | There won't be multiplayer |
 | Trailer | [https://youtu.be/iubqgNdi7Jg](https://youtu.be/iubqgNdi7Jg){:target="_blank" rel="noopener noreferrer"}
-| Gameplay | A 3rd-person tower defense where you queue your own difficulty. Utilize projectile-based towers and unique tower interactions to strategically defeat your foes. |
+| Gameplay | Use projectile-based towers, unique tower interactions, and overpowered weapons to strategically conquer the endless waves in this 3rd-person tower defense game! |
 | Language | English only |
-| Music Copyright | There is a streamer mode that changes all music to only public domain songs. |
+| Music Copyright | There is a streamer mode that changes the music to public domain songs. |
 | Developer | Koalas in Traffic (solo developer) |
 
 # Logos and Images
+
+Download all the images here: 
+
 <table>
   <tr>
     <td><a href="/assets/images/spd/press-logo1.png" target="_blank" rel="noopener noreferrer"><img src="/assets/images/spd/press-logo1.png"></a></td>

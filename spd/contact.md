@@ -23,10 +23,9 @@ Use this form to send an email to the developer.
   <label><b>Reason For Email</b></label><br/>
   <select name="reason" required>
     <option selected disabled value ="">Choose an option</option>
-    <option>Question about game</option>
-    <option>Comment about game</option>
-    <option>Report a problem or need help</option>
     <option>Contact author</option>
+    <option>Question about game</option>
+    <option>Report a problem or need help</option>
   </select><br/>
 
   <label><b>Message</b></label><br/>
