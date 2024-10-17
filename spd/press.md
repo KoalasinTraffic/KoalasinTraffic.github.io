@@ -5,14 +5,14 @@ title: Press
 
 # Press Kit
 
-Small People Defense is an action TD game where you use projectile-based towers, unique tower interactions, and overpowered weapons to strategically conquer the endless waves.
+Small People Defense is an action TD game where you use projectile-based towers, unique tower interactions, and overpowered weapons to strategically conquer the endless waves. You can challenge yourself by rushing waves to get huge rewards and optimizing your cash production. Or you can enjoy casually powering up your towers and growing your small person into the largest in the world!
 
 If you need additional information or would like the press kit to be provided in a different format, please [contact me](/spd/contact).
 
 | Early Access | April 14, 2023 |
 | Full Release | November 2024 |
 | Genre | Tower Defense / Strategy |
-| Similar To | Element TD and Orcs Must Die |
+| Similar To | Element TD mixed with Orcs Must Die |
 | Platform | [Steam for Windows](https://store.steampowered.com/app/2239870/Small_People_Defense/){:target="_blank" rel="noopener noreferrer"} |
 | Price | $4.99 |
 | Singleplayer | There won't be multiplayer |
