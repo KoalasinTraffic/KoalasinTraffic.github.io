@@ -7,7 +7,7 @@ title: Merchant
 
 The merchant will have all their towers sold at a greater value than other characters. This is the default character and gives players more leeway in making mistakes.
 
-Regular sell amount = 80%
+Normal sell amount = 80%
 
 Merchant sell amount = 90%
 

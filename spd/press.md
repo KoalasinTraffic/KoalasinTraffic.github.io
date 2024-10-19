@@ -5,12 +5,14 @@ title: Press
 
 # Press Kit
 
-Small People Defense is an action TD game where you use projectile-based towers, unique tower interactions, and overpowered weapons to strategically conquer the endless waves. You can challenge yourself by rushing waves to get huge rewards and optimizing your cash production. Or you can enjoy casually powering up your towers and growing your small person into the largest in the world!
+Small People Defense is an action TD game where you use projectile-based towers, unique tower interactions, and overpowered weapons to strategically conquer the endless waves.
+
+You can challenge yourself by rushing waves to get huge rewards and optimizing your cash production. Or you can enjoy casually powering up your towers and growing your small person into the largest in the world!
 
 If you need additional information or would like the press kit to be provided in a different format, please [contact me](/spd/contact).
 
-| Early Access | April 14, 2023 |
 | Full Release | November 2024 |
+| Early Access | April 14, 2023 |
 | Genre | Tower Defense / Strategy |
 | Similar To | Element TD mixed with Orcs Must Die |
 | Platform | [Steam for Windows](https://store.steampowered.com/app/2239870/Small_People_Defense/){:target="_blank" rel="noopener noreferrer"} |
@@ -30,20 +32,24 @@ You can download the below images here: [\*small-people-defense-press.zip\*](/as
 
 <table>
   <tr>
-    <td><a href="/assets/images/spd/press-gameplay1.png" target="_blank" rel="noopener noreferrer"><img src="/assets/images/spd/press-gameplay1.png"></a></td>
-    <td><a href="/assets/images/spd/press-gameplay2.png" target="_blank" rel="noopener noreferrer"><img src="/assets/images/spd/press-gameplay2.png"></a></td>
-  </tr>
-  <tr>
-    <td><a href="/assets/images/spd/press-gameplay3.png" target="_blank" rel="noopener noreferrer"><img src="/assets/images/spd/press-gameplay3.png"></a></td>
-    <td><a href="/assets/images/spd/press-gameplay4.png" target="_blank" rel="noopener noreferrer"><img src="/assets/images/spd/press-gameplay4.png"></a></td>
-  </tr>
-  <tr>
-    <td><a href="/assets/images/spd/press-gameplay5.png" target="_blank" rel="noopener noreferrer"><img src="/assets/images/spd/press-gameplay5.png"></a></td>
-    <td><a href="/assets/images/spd/press-gameplay5.png" target="_blank" rel="noopener noreferrer"><img src="/assets/images/spd/press-gameplay5.png"></a></td>
-  </tr>
-  <tr>
     <td><a href="/assets/images/spd/press-logo1.png" target="_blank" rel="noopener noreferrer"><img src="/assets/images/spd/press-logo1.png"></a></td>
-    <td><a href="/assets/images/spd/press-logo2.png" target="_blank" rel="noopener noreferrer"><img src="/assets/images/spd/press-logo2.png"></a></td>
+    <td><center><a href="/assets/images/spd/press-logo2.png" target="_blank" rel="noopener noreferrer"><img src="/assets/images/spd/press-logo2.png"></a></center></td>
+  </tr>
+  <tr>
+    <td><a href="/assets/images/spd/press-gameplay1.jpg" target="_blank" rel="noopener noreferrer"><img src="/assets/images/spd/press-gameplay1.jpg"></a></td>
+    <td><a href="/assets/images/spd/press-gameplay2.jpg" target="_blank" rel="noopener noreferrer"><img src="/assets/images/spd/press-gameplay2.jpg"></a></td>
+  </tr>
+  <tr>
+    <td><a href="/assets/images/spd/press-gameplay3.jpg" target="_blank" rel="noopener noreferrer"><img src="/assets/images/spd/press-gameplay3.jpg"></a></td>
+    <td><a href="/assets/images/spd/press-gameplay4.jpg" target="_blank" rel="noopener noreferrer"><img src="/assets/images/spd/press-gameplay4.jpg"></a></td>
+  </tr>
+  <tr>
+    <td><a href="/assets/images/spd/press-gameplay5.jpg" target="_blank" rel="noopener noreferrer"><img src="/assets/images/spd/press-gameplay5.jpg"></a></td>
+    <td><a href="/assets/images/spd/press-screenshot1.jpg" target="_blank" rel="noopener noreferrer"><img src="/assets/images/spd/press-screenshot1.jpg"></a></td>
+  </tr>
+  <tr>
+    <td><a href="/assets/images/spd/press-screenshot2.jpg" target="_blank" rel="noopener noreferrer"><img src="/assets/images/spd/press-screenshot2.jpg"></a></td>
+    <td><a href="/assets/images/spd/press-screenshot3.jpg" target="_blank" rel="noopener noreferrer"><img src="/assets/images/spd/press-screenshot3.jpg"></a></td>
   </tr>
 </table>
 

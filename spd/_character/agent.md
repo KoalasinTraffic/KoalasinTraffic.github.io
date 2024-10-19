@@ -9,7 +9,7 @@ The agent helps the enemy by spawning more [Serfs](/spd/enemy). Although waves w
 
 Enemy health calculations are not affected by the extra money players receive from these extra serfs.
 
-Regular serfs = Spawned at a regular interval of every 3 seconds
+Normal serfs = Spawned at a regular interval of every 3 seconds
 
 Agent serfs = One more serf is spawned at the beginning of each wave
 

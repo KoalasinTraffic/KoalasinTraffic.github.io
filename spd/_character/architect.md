@@ -9,7 +9,7 @@ The architect builds towers at a much higher health. This durability is effectiv
 
 Also, displacement effects are nullified. This means your towers can't be pushed by the [Dragon](/spd/boss/dragon) and the [Final Boss](/spd/boss/final).
 
-Regular tower health = 100%
+Normal tower health = 100%
 
 Architect tower health = 200%
 

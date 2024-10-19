@@ -7,7 +7,7 @@ title: Sprinter
 
 The sprinter runs faster and rotates faster than any other character. Useful for larger maps.
 
-Regular movement = 400
+Normal movement = 400
 
 Sprinter movement = 800
 
