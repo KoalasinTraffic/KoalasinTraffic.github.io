@@ -18,11 +18,14 @@ If you need additional information or would like the press kit to be provided in
 | Platform | [Steam for Windows](https://store.steampowered.com/app/2239870/Small_People_Defense/){:target="_blank" rel="noopener noreferrer"} |
 | Price | $4.99 |
 | Singleplayer | There won't be multiplayer |
-| Trailer | [https://youtu.be/iubqgNdi7Jg](https://youtu.be/iubqgNdi7Jg){:target="_blank" rel="noopener noreferrer"}
 | Gameplay | 3rd-person action tower defense |
 | Language | English only |
 | Music Copyright | There is a streamer mode that changes the music to public domain songs. |
 | Developer | Koalas in Traffic (solo developer) |
+
+# Trailer
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iubqgNdi7Jg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Logos and Images
 
