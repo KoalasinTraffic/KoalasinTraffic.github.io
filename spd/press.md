@@ -32,10 +32,6 @@ You can download the below images here: [\*small-people-defense-press.zip\*](/as
 
 <table>
   <tr>
-    <td><a href="/assets/images/spd/press-logo1.png" target="_blank" rel="noopener noreferrer"><img src="/assets/images/spd/press-logo1.png"></a></td>
-    <td><center><a href="/assets/images/spd/press-logo2.png" target="_blank" rel="noopener noreferrer"><img src="/assets/images/spd/press-logo2.png"></a></center></td>
-  </tr>
-  <tr>
     <td><a href="/assets/images/spd/press-gameplay1.jpg" target="_blank" rel="noopener noreferrer"><img src="/assets/images/spd/press-gameplay1.jpg"></a></td>
     <td><a href="/assets/images/spd/press-gameplay2.jpg" target="_blank" rel="noopener noreferrer"><img src="/assets/images/spd/press-gameplay2.jpg"></a></td>
   </tr>
@@ -50,6 +46,10 @@ You can download the below images here: [\*small-people-defense-press.zip\*](/as
   <tr>
     <td><a href="/assets/images/spd/press-screenshot2.jpg" target="_blank" rel="noopener noreferrer"><img src="/assets/images/spd/press-screenshot2.jpg"></a></td>
     <td><a href="/assets/images/spd/press-screenshot3.jpg" target="_blank" rel="noopener noreferrer"><img src="/assets/images/spd/press-screenshot3.jpg"></a></td>
+  </tr>
+  <tr>
+    <td><a href="/assets/images/spd/press-logo1.png" target="_blank" rel="noopener noreferrer"><img src="/assets/images/spd/press-logo1.png"></a></td>
+    <td><center><a href="/assets/images/spd/press-logo3.jpg" target="_blank" rel="noopener noreferrer"><img src="/assets/images/spd/press-logo3.jpg"></a></center></td>
   </tr>
 </table>
 
