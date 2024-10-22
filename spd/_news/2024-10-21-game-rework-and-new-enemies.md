@@ -26,6 +26,7 @@ Weapon balancing
 Enemy balancing
 * Wave health calculations have been completely reworked, so higher difficulties will grant more cash and points.
 * Income health has been reduced by ~70%.
+* Getting 5 stars on levels is now much harder.
 
 Character changes
 * Selection of your character is not just aesthetic anymore. Small variations have been added, which are described in the Character Select menu.
