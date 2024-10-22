@@ -11,7 +11,7 @@ You can challenge yourself by rushing waves to get huge rewards and optimizing y
 
 If you need additional information or would like the press kit to be provided in a different format, please [contact me](/spd/contact).
 
-| Full Release | November 2024 |
+| Full Release | November 6, 2024 |
 | Early Access | April 14, 2023 |
 | Genre | Tower Defense / Strategy |
 | Similar To | Element TD mixed with Orcs Must Die |
