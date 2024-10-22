@@ -16,7 +16,7 @@ If you need additional information or would like the press kit to be provided in
 | Genre | Tower Defense / Strategy |
 | Similar To | Element TD mixed with Orcs Must Die |
 | Platform | [Steam for Windows](https://store.steampowered.com/app/2239870/Small_People_Defense/){:target="_blank" rel="noopener noreferrer"} |
-| Price | $4.99 |
+| Price | $4.99 (USD) |
 | Singleplayer | There won't be multiplayer |
 | Gameplay | 3rd-person action tower defense |
 | Language | English only |
