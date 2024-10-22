@@ -17,16 +17,17 @@ Upgrade changes
 * You can now buy weapon charges (in addition to the 8 charges you can grab around various maps).
 * Costs of early upgrades lowered and costs of later upgrades increased.
 
-Weapon balancing
+Weapon changes
+* A new weapon has been added that allows you to move towers.
 * The grab weapon now grabs ALL enemies in range.
 * The strike weapon will no longer prevent movement and interval between strikes are shortened.
 * The trap weapon has been buffed to deal 10% damage per second (instead of 5%).
 * The blaze weapon charge will be dropped every 10 waves instead of 5.
 
-Enemy balancing
+Enemy changes
 * Wave health calculations have been completely reworked, so higher difficulties will grant more cash and points.
-* Income health has been reduced by ~70%.
 * Getting 5 stars on levels is now much harder.
+* Income health has been reduced, so casual players will have an easier time.
 
 Character changes
 * Selection of your character is not just aesthetic anymore. Small variations have been added, which are described in the Character Select menu.
@@ -57,8 +58,6 @@ Gameplay
 * Default camera view is now lower to look more like 3rd person. The top down view now moves with the camera.
 * You can now rush all enemies at once, but will reset when the number of enemies reach over 100. You can now also stop rushing all waves.
 * Mazing bugs with enemy navigation have been fixed with the tower rework.
-
-Miscellaneous
 * Towers can now be built when jumping or standing on top of other towers.
 * Music can be changed while playing using R3 or Tab. Song info shows at the bottom right of the screen.
 * Game will now autosave high score and points every 10 minutes.
