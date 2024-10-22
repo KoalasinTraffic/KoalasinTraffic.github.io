@@ -45,7 +45,7 @@ Subscribe to my mailing list to get notified about my projects.
 
 <!--End mc_embed_signup-->
 
-Here's a picture of a baby koala for following &#128522;
+Here's a picture of a baby koala for reading &#128522;
 
 <img src="/assets/images/koala-61190_960_720.jpg" alt="koala-61190_960_720.jpg">
 
