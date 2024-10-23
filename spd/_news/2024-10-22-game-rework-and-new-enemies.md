@@ -5,7 +5,7 @@ title: Update v1.0 Game Rework and New Enemies
 
 # Game Rework and New Enemies
 
-The full release has been announced to be November 6! I'm excited to finally put closure on this game, and many fixes have been added. There's a ton of new content including four new enemies and a new map. And a complete rework on health and damage calculations has been added to balance the game.
+The full release has been announced to be November 6th! I'm excited to finally put closure on this game, and many fixes have been added. There's a ton of new content including four new enemies and a new map. And a complete rework on health and damage calculations has been added to balance the game.
 
 All planned features are now complete, so future updates will only have bug fixes. Expect a sale on the release date of November 6th!
 
