@@ -23,9 +23,11 @@ If you need additional information or would like the press kit to be provided in
 | Music Copyright | There is a streamer mode that changes the music to public domain songs. |
 | Developer | Koalas in Traffic (solo developer) |
 
-# Trailer
+# Trailers
 
-<iframe width="426" height="240" src="https://www.youtube.com/embed/iubqgNdi7Jg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="426" height="240" src="https://www.youtube.com/embed/XC3I4YBVDA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="426" height="240" src="https://www.youtube.com/embed/8gOJ6TR2FbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Logos and Images
 
