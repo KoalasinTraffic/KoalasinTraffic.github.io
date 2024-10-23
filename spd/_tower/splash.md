@@ -18,9 +18,9 @@ The best area of effect (AoE) tower in the game.
 
 At level 100, this tower will gain 20% range. Also, each cannonball bounce will no longer reduce in size increasing the chance of bouncing more!
 
-At level 601, the splash tower will become invulnerable and each bounce will create 3 cannonballs instead of 1.
+At level 777, the splash tower will become invulnerable and each bounce will create 3 cannonballs instead of 1.
 
-# Base Stats Before Power Up
+# Base Stats Before Upgrades
 
 * Cost: $12
 

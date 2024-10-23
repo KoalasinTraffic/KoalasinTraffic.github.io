@@ -12,6 +12,7 @@ This tower creates a beam between itself and the nearest beam tower. With every 
 * No projectile: Beams remain as long as original tower does not die.
   * At level 10, 20, 30, 40 and 50, an additional beam tether will be made.
   * Starting at level 100, beams will deal 10% damage to all enemies that stay within the beam every second.
+  * At level 100, 200, 300, 400, 500, 600 and 700, damage per second will increase by another 10%.
 
 * AI: None
 
@@ -19,9 +20,9 @@ This tower creates a beam between itself and the nearest beam tower. With every 
 
 The beam and wall towers are the only ones that can't be moved by bosses.
 
-At level 601, the beam tower will become invulnerable and stun enemies on overlap.
+At level 777, the beam tower will become invulnerable and stun enemies on overlap.
 
-# Base Stats Before Power Up
+# Base Stats Before Upgrades
 
 * Cost: $15
 

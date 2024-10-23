@@ -9,7 +9,7 @@ The best slowing tower in the game.
 
 * Single damage: A magic bolt is shot and deals damage to the first target it hits.
   * Starting at level 10, this tower will deal area of effect (AoE) slow and damage on impact. Damage is spread evenly among the number of enemies hit.
-  * At level 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 200, 300, 400, 500, 600 and 601, the splash radius will increase.
+  * At level 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 200, 300, 400, 500, 600 and 700, the splash radius will increase.
 
 * Fast projectile: This tower shoots much faster projectiles and usually does not miss.
 
@@ -18,14 +18,14 @@ The best slowing tower in the game.
 * Slow effect: Struck enemies will have their movement speed slowed. If slowed by towers of different strengths, the largest slow will persist and its duration will be refreshed.
   * Base slow: 14%
   * Additional slow per 10 levels until 100: 3%
-  * Additional slow per 100 levels until 600: 3%
-  * Slow at level 600: 59%
+  * Additional slow per 100 levels until 700: 5%
+  * Slow at level 700: 75%
 
 At level 100, this tower will gain 20% range.
 
-At level 601, the slow tower will become invulnerable, have significantly increased splash radius, and have significantly greater slow (70%).
+At level 777, the slow tower will become invulnerable, have significantly increased splash radius, and have significantly greater slow (70%).
 
-# Base Stats Before Power Up
+# Base Stats Before Upgrades
 
 * Cost: $7
 
