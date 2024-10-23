@@ -5,7 +5,7 @@ title: Update v1.0 Game Rework and New Enemies
 
 # Game Rework and New Enemies
 
-The full release has been announced to be November 6th! I'm excited to finally put closure on this game, and many unpatched fixes have been added. New content including four new enemies and a new map is now live. And a complete rework on health and damage calculations has been added to balance the game.
+The full release has been announced to be November 6! I'm excited to finally put closure on this game, and many fixes have been added. There's a ton of new content including four new enemies and a new map. And a complete rework on health and damage calculations has been added to balance the game.
 
 All planned features are now complete, so future updates will only have bug fixes. Expect a sale on the release date of November 6th!
 
@@ -25,7 +25,7 @@ Weapon changes
 * The blaze weapon charge will be dropped every 10 waves instead of 5.
 
 Enemy changes
-* Wave health calculations have been completely reworked, so higher difficulties will grant more cash and points.
+* Wave health have been completely reworked, so higher difficulties will grant more cash and points.
 * Getting 5 stars on levels is now much harder.
 * Income health has been reduced, so casual players will have an easier time.
 
@@ -48,7 +48,7 @@ Enemy changes
 
 Map changes
 * A new 5th map and its variants have been added!
-* The costs of levels have been increased. However, all players who played before v1.0 will have everything unlocked.
+* The costs of levels have been increased. However, all players who played before v1.0 will have all levels unlocked.
 * The order of levels have been reorganized. Scores are jumbled around, so I apologize for those who got high scores for them.
 * Tutorials have been reworked and allow players to preview all maps.
 * Build locations on various maps have been fixed.
@@ -56,7 +56,7 @@ Map changes
 Gameplay
 * All levels are now "endless" by default. Hardest difficulty has ~2000 waves and easy levels can have up to 4000 waves. (The previous limit was ~600 waves).
 * Default camera view is now lower to look more like 3rd person. The top down view now moves with the camera.
-* You can now rush all enemies at once, but will reset when the number of enemies reach over 100. You can now also stop rushing all waves.
+* You can now rush all enemies at once, but will reset when the number of enemies go over 100. You can now also stop rushing all waves.
 * Mazing bugs with enemy navigation have been fixed with the tower rework.
 * Towers can now be built when jumping or standing on top of other towers.
 * Music can be changed while playing using R3 or Tab. Song info shows at the bottom right of the screen.
