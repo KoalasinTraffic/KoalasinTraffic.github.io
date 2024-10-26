@@ -58,5 +58,5 @@ You can download the below images here: [\*small-people-defense-press.zip\*](/as
   </tr>
 </table>
 
-# Selected Press
-\[Early Access\] [ReformistTM](https://youtu.be/RCqHg7mbXOA){:target="_blank" rel="noopener noreferrer"}
+[//]: # # Selected Press
+[//]: # \[Early Access\] [ReformistTM](https://youtu.be/RCqHg7mbXOA){:target="_blank" rel="noopener noreferrer"}
