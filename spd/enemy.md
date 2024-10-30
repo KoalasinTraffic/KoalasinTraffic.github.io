@@ -9,7 +9,7 @@ There are over 20 enemy types to defend against. Enemies are spawned with a new 
 
 # Serfs
 
-Serfs are spawned every 3 seconds. They have 10 times less health but provides 10 times less points than a single wave. Rushing does not influence the spawn rate of serfs. Starting from wave 100, serfs are promoted to super serfs and have 10% more health.
+Serfs are spawned every 3 seconds. They have 12 times less health but provides 10 times less than an unrushed wave. Rushing does not influence the spawn rate of serfs. Starting from wave 100, serfs are promoted to super serfs and have 10% more health.
 
 # Scoring and Cash
 
