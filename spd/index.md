@@ -25,5 +25,3 @@ This website will have documentation on stats of towers, weapons, enemies, and b
 # Play Now!
 
 Steam: [https://store.steampowered.com/app/2239870/](https://store.steampowered.com/app/2239870/){:target="_blank" rel="noopener noreferrer"}
-
-Discord: [https://discord.gg/hu2Pv49suW](https://discord.gg/hu2Pv49suW){:target="_blank" rel="noopener noreferrer"}
